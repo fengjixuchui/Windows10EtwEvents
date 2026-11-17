@@ -1,139 +1,139 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
-Microsoft-Windows-MCCS-ActiveSyncProvider	1	0	task_0(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Error	task_0	Error		
-Microsoft-Windows-MCCS-ActiveSyncProvider	2	0	task_02(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	101	0	task_0101(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	102	0	task_0102(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	103	0	task_0103(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	201	0	task_0201()		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	301	0	task_0301(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UInt32 Prop_Dword3)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	302	0	task_0302(HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	303	0	task_0303(HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	304	0	task_0304(HexInt32 Prop_Dword1, AnsiString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Dword2, UInt32 Prop_Dword3, UInt32 Prop_Dword4, UInt32 Prop_Status)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	308	0	task_0308(UnicodeString Prop_String_1, UnicodeString Prop_String_2, UnicodeString Prop_String_3)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	309	0	task_0309(HexInt32 Prop_Dword_1, UnicodeString Prop_String, UInt32 Prop_Dword_2, UInt32 Prop_Dword_3, Boolean Prop_Bool)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	310	0	task_0310(HexInt32 Prop_Dword_1, UnicodeString Prop_String, UInt32 Prop_Dword_2, UInt32 Prop_Dword_3)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	312	0	task_0312(UnicodeString Prop_String1, UInt32 Prop_Dword_1)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	313	0	task_0313(UnicodeString Prop_String1, UInt32 Prop_Dword_1)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	314	0	task_0314(UnicodeString Prop_String1, UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	315	0	task_0315(UnicodeString Prop_String1, UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	316	0	task_0316(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	317	0	task_0317(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	318	0	task_0318(HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	319	0	task_0319(HexInt32 Prop_Dword1, UInt32 Prop_Dword2)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	320	0	task_0320(HexInt32 Prop_Dword, UnicodeString Prop_String)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	321	0	task_0321(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UnicodeString Prop_String)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	322	0	task_0322(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UnicodeString Prop_String)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	323	0	task_0323(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UnicodeString Prop_String)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	324	0	task_0324(HexInt32 Prop_Dword, UnicodeString Prop_String)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	325	0	task_0325(HexInt32 Prop_Dword)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	326	0	task_0326(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	327	0	task_0327(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	328	0	task_0328(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	329	0	task_0329(UnicodeString Prop_String)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	330	0	task_0330(UnicodeString Prop_String)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	331	0	task_0331(UnicodeString Prop_String1, UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	332	0	task_0332(UnicodeString Prop_String)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	333	0	task_0333(UnicodeString Prop_String1, UInt32 Prop_Dword1, UnicodeString Prop_String2, UInt32 Prop_Dword2, UnicodeString Prop_String3, UInt32 Prop_Dword3)		CommsService	task_0	Error		
-Microsoft-Windows-MCCS-ActiveSyncProvider	334	0	task_0334(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	335	0	task_0335(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Dword_2)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	336	0	task_0336(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Dword_2)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	401	0	task_0401()		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	402	0	task_0402(Int32 Prop_ContentLengthBytes, AnsiString Prop_ContentChars)		Error	task_0	Error		
-Microsoft-Windows-MCCS-ActiveSyncProvider	403	0	task_0403()		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	421	0	task_0421(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	422	0	task_0422(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	423	0	task_0423(UInt32 Prop_Dword_1, UnicodeString Prop_String1, HexInt32 Prop_Dword_2, Int32 Prop_HResult)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	501	0	task_0501(HexInt32 Prop_Dword)		Error	task_0	Error		
-Microsoft-Windows-MCCS-ActiveSyncProvider	510	0	task_0510(UInt32 Prop_Length, UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	511	0	task_0511(UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	512	0	task_0512(UnicodeString Prop_String_1, UnicodeString Prop_String_2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	513	0	task_0513(UnicodeString Prop_String_1, UnicodeString Prop_String_2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	514	0	task_0514(UnicodeString Prop_String_1, UnicodeString Prop_String_2, UnicodeString Prop_String_3)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	515	0	task_0515(UnicodeString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Length, Binary Prop_Binary)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	516	0	task_0516()		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	517	0	task_0517(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	518	0	task_0518(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	519	0	task_0519(UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	520	0	task_0520(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	521	0	task_0521(HexInt32 Prop_Dword)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	522	0	task_0522(HexInt32 Prop_Dword)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	523	0	task_0523(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	524	0	task_0524(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	525	0	task_0525(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	526	0	task_0526(UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	527	0	task_0527(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	528	0	task_0528(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	529	0	task_0529(UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	530	0	task_0530(UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	531	0	task_0531(GUID Prop_Guid)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	532	0	task_0532(GUID Prop_Guid, UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	533	0	task_0533(GUID Prop_Guid, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	534	0	task_0534(GUID Prop_Guid)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	535	0	task_0535(GUID Prop_Guid, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	536	0	task_0536(UnicodeString Prop_String_1, UnicodeString Prop_String_2)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	537	0	task_0537(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2, UInt32 Prop_Dword_3)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	538	0	task_0538(UnicodeString Prop_String)		PeopleSync	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	551	0	task_0551(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		Error	task_0	Error		
-Microsoft-Windows-MCCS-ActiveSyncProvider	602	0	SPERF_TAG_SYNC_ENGINEStart()	Start	Performance	SPERF_TAG_SYNC_ENGINE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	603	0	SPERF_TAG_SYNC_ENGINEStop()	Stop	Performance	SPERF_TAG_SYNC_ENGINE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	604	0	SPERF_TAG_GET_SERVER_CHANGE_CNTStart()	Start	Performance	SPERF_TAG_GET_SERVER_CHANGE_CNT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	605	0	SPERF_TAG_GET_SERVER_CHANGE_CNTStop()	Stop	Performance	SPERF_TAG_GET_SERVER_CHANGE_CNT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	606	0	SPERF_TAG_VERSION_NEGOTIATIONStart()	Start	Performance	SPERF_TAG_VERSION_NEGOTIATION	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	607	0	SPERF_TAG_VERSION_NEGOTIATIONStop()	Stop	Performance	SPERF_TAG_VERSION_NEGOTIATION	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	608	0	SPERF_TAG_FOLDER_SYNCStart()	Start	Performance	SPERF_TAG_FOLDER_SYNC	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	609	0	SPERF_TAG_FOLDER_SYNCStop()	Stop	Performance	SPERF_TAG_FOLDER_SYNC	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	610	0	SPERF_TAG_HTTPStart()	Start	Performance	SPERF_TAG_HTTP	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	611	0	SPERF_TAG_HTTPStop()	Stop	Performance	SPERF_TAG_HTTP	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	612	0	SPERF_TAG_GENERATE_AIR_REQUESTStart()	Start	Performance	SPERF_TAG_GENERATE_AIR_REQUEST	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	613	0	SPERF_TAG_GENERATE_AIR_REQUESTStop()	Stop	Performance	SPERF_TAG_GENERATE_AIR_REQUEST	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	614	0	SPERF_TAG_PARSE_AIR_RESPONSEStart()	Start	Performance	SPERF_TAG_PARSE_AIR_RESPONSE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	615	0	SPERF_TAG_PARSE_AIR_RESPONSEStop()	Stop	Performance	SPERF_TAG_PARSE_AIR_RESPONSE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	616	0	SPERF_TAG_SYNCSESSION_INITStart()	Start	Performance	SPERF_TAG_SYNCSESSION_INIT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	617	0	SPERF_TAG_SYNCSESSION_INITStop()	Stop	Performance	SPERF_TAG_SYNCSESSION_INIT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	618	0	SPERF_TAG_SYNCSESSION_CLEANUPStart()	Start	Performance	SPERF_TAG_SYNCSESSION_CLEANUP	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	619	0	SPERF_TAG_SYNCSESSION_CLEANUPStop()	Stop	Performance	SPERF_TAG_SYNCSESSION_CLEANUP	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	620	0	SPERF_TAG_SESSION_BEGINSYNCStart()	Start	Performance	SPERF_TAG_SESSION_BEGINSYNC	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	621	0	SPERF_TAG_SESSION_BEGINSYNCStop()	Stop	Performance	SPERF_TAG_SESSION_BEGINSYNC	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	622	0	SPERF_TAG_PROCESSRESPONSEStart()	Start	Performance	SPERF_TAG_PROCESSRESPONSE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	623	0	SPERF_TAG_PROCESSRESPONSEStop()	Stop	Performance	SPERF_TAG_PROCESSRESPONSE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	626	0	SPERF_TAG_PIM_CHANGECOUNTStart()	Start	Performance	SPERF_TAG_PIM_CHANGECOUNT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	627	0	SPERF_TAG_PIM_CHANGECOUNTStop()	Stop	Performance	SPERF_TAG_PIM_CHANGECOUNT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	628	0	SPERF_TAG_GET_SYNC_CMDStart()	Start	Performance	SPERF_TAG_GET_SYNC_CMD	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	629	0	SPERF_TAG_GET_SYNC_CMDStop()	Stop	Performance	SPERF_TAG_GET_SYNC_CMD	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	630	0	SPERF_TAG_HANDLE_SERVER_CMDStart()	Start	Performance	SPERF_TAG_HANDLE_SERVER_CMD	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	631	0	SPERF_TAG_HANDLE_SERVER_CMDStop()	Stop	Performance	SPERF_TAG_HANDLE_SERVER_CMD	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	632	0	SPERF_TAG_READ_STOREStart()	Start	Performance	SPERF_TAG_READ_STORE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	633	0	SPERF_TAG_READ_STOREStop()	Stop	Performance	SPERF_TAG_READ_STORE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	634	0	SPERF_TAG_WRITE_STOREStart()	Start	Performance	SPERF_TAG_WRITE_STORE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	635	0	SPERF_TAG_WRITE_STOREStop()	Stop	Performance	SPERF_TAG_WRITE_STORE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	636	0	SPERF_TAG_GET_NAMEDPROPIDStart()	Start	Performance	SPERF_TAG_GET_NAMEDPROPID	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	637	0	SPERF_TAG_GET_NAMEDPROPIDStop()	Stop	Performance	SPERF_TAG_GET_NAMEDPROPID	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	642	0	SPERF_TAG_PIM_ITEMSAVEStart()	Start	Performance	SPERF_TAG_PIM_ITEMSAVE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	643	0	SPERF_TAG_PIM_ITEMSAVEStop()	Stop	Performance	SPERF_TAG_PIM_ITEMSAVE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	646	0	SPERF_TAG_SYNC_SRVCMDStart(HexInt32 Prop_Dword)	Start	Performance	SPERF_TAG_SYNC_SRVCMD	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	647	0	SPERF_TAG_SYNC_SRVCMDStop(HexInt32 Prop_Dword)	Stop	Performance	SPERF_TAG_SYNC_SRVCMD	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	664	0	SPERF_TAG_SEND_MAILStart()	Start	Performance	SPERF_TAG_SEND_MAIL	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	665	0	SPERF_TAG_SEND_MAILStop()	Stop	Performance	SPERF_TAG_SEND_MAIL	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	666	0	SPERF_TAG_CONVERT_TO_MIMEStart()	Start	Performance	SPERF_TAG_CONVERT_TO_MIME	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	667	0	SPERF_TAG_CONVERT_TO_MIMEStop()	Stop	Performance	SPERF_TAG_CONVERT_TO_MIME	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	668	0	SPERF_TAG_SMART_REPLYStart()	Start	Performance	SPERF_TAG_SMART_REPLY	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	669	0	SPERF_TAG_SMART_REPLYStop()	Stop	Performance	SPERF_TAG_SMART_REPLY	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	676	0	SPERF_TAG_GET_FETCH_IDSStart()	Start	Performance	SPERF_TAG_GET_FETCH_IDS	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	677	0	SPERF_TAG_GET_FETCH_IDSStop()	Stop	Performance	SPERF_TAG_GET_FETCH_IDS	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	692	0	SPERF_TAG_GET_NEXT_CHANGEStart()	Start	Performance	SPERF_TAG_GET_NEXT_CHANGE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	693	0	SPERF_TAG_GET_NEXT_CHANGEStop()	Stop	Performance	SPERF_TAG_GET_NEXT_CHANGE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	708	0	SPERF_TAG_PINGStart()	Start	Performance	SPERF_TAG_PING	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	709	0	SPERF_TAG_PINGStop()	Stop	Performance	SPERF_TAG_PING	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	712	0	SPERF_TAG_FETCH_SERVICEStart()	Start	Performance	SPERF_TAG_FETCH_SERVICE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	713	0	SPERF_TAG_FETCH_SERVICEStop()	Stop	Performance	SPERF_TAG_FETCH_SERVICE	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	714	0	SPERF_TAG_FETCH_DOCINFOStart()	Start	Performance	SPERF_TAG_FETCH_DOCINFO	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	715	0	SPERF_TAG_FETCH_DOCINFOStop()	Stop	Performance	SPERF_TAG_FETCH_DOCINFO	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	718	0	SPERF_TAG_SEARCH_FALLBACKStart()	Start	Performance	SPERF_TAG_SEARCH_FALLBACK	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	719	0	SPERF_TAG_SEARCH_FALLBACKStop()	Stop	Performance	SPERF_TAG_SEARCH_FALLBACK	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	720	0	SPERF_TAG_SERVERSYNC_INITStart()	Start	Performance	SPERF_TAG_SERVERSYNC_INIT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	721	0	SPERF_TAG_SERVERSYNC_INITStop()	Stop	Performance	SPERF_TAG_SERVERSYNC_INIT	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	732	0	SPERF_TAG_AUTODISCOVERStart()	Start	Performance	SPERF_TAG_AUTODISCOVER	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	733	0	SPERF_TAG_AUTODISCOVERStop()	Stop	Performance	SPERF_TAG_AUTODISCOVER	Informational		
+Microsoft-Windows-MCCS-ActiveSyncProvider	1	0	Event_1(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Error	task_0	Error		Error: %1 Location: %2 Line Number: %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	2	0	Event_2(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Warning	task_0	Warning		Error Propagated: %1 Location: %2 Line Number: %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	101	0	Event_101(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		ActiveSyncProvider:[HandleServerCommand] Processed add of item %1; hr = %2.
+Microsoft-Windows-MCCS-ActiveSyncProvider	102	0	Event_102(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		ActiveSyncProvider:[HandleServerCommand] Processed change of item %1; hr = %2.
+Microsoft-Windows-MCCS-ActiveSyncProvider	103	0	Event_103(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		ActiveSyncProvider:[HandleServerCommand] Processed delete of item %1; hr = %2.
+Microsoft-Windows-MCCS-ActiveSyncProvider	201	0	Event_201()		Warning	task_0	Warning		ActiveSyncProvider:[SmartSend] Error opening Original message on the client.
+Microsoft-Windows-MCCS-ActiveSyncProvider	301	0	Event_301(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UInt32 Prop_Dword3)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [CertHelper] Changing authentication state from %2 to %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	302	0	Event_302(HexInt32 Prop_Dword)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [CertHelper] Discarding the currently persisted certificate
+Microsoft-Windows-MCCS-ActiveSyncProvider	303	0	Event_303(HexInt32 Prop_Dword)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [CertHelper] Persisting the current certificate
+Microsoft-Windows-MCCS-ActiveSyncProvider	304	0	Event_304(HexInt32 Prop_Dword1, AnsiString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Dword2, UInt32 Prop_Dword3, UInt32 Prop_Dword4, UInt32 Prop_Status)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [CertHelper] %2 Cert: %3 which expires on: %4/%5/%6 status: %7
+Microsoft-Windows-MCCS-ActiveSyncProvider	308	0	Event_308(UnicodeString Prop_String_1, UnicodeString Prop_String_2, UnicodeString Prop_String_3)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Collection %1 transitioning from %2 to %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	309	0	Event_309(HexInt32 Prop_Dword_1, UnicodeString Prop_String, UInt32 Prop_Dword_2, UInt32 Prop_Dword_3, Boolean Prop_Bool)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [SyncFolderProgress] Sync response received for collection %2 of type %3, status %4, more available %5
+Microsoft-Windows-MCCS-ActiveSyncProvider	310	0	Event_310(HexInt32 Prop_Dword_1, UnicodeString Prop_String, UInt32 Prop_Dword_2, UInt32 Prop_Dword_3)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [SyncFolderProgress] GIE response received for collection %2, status %3, count %4
+Microsoft-Windows-MCCS-ActiveSyncProvider	312	0	Event_312(UnicodeString Prop_String1, UInt32 Prop_Dword_1)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Handled continuation sync request for collection %1. Continuation requests made so far: %2
+Microsoft-Windows-MCCS-ActiveSyncProvider	313	0	Event_313(UnicodeString Prop_String1, UInt32 Prop_Dword_1)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Continuation sync request for collection %1 was ignored because the maximum number of continuation requests satisfied so far (%2) has been reached
+Microsoft-Windows-MCCS-ActiveSyncProvider	314	0	Event_314(UnicodeString Prop_String1, UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] The total download count for collection %1 has changed from %2 to %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	315	0	Event_315(UnicodeString Prop_String1, UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] The total upload count for collection %1 has changed from %2 to %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	316	0	Event_316(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [MeetingResponsesSyncSession] Setting placeholder meeting server id for successful response (request id: %2, meeting id: %3)
+Microsoft-Windows-MCCS-ActiveSyncProvider	317	0	Event_317(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [MeetingResponsesSyncSession] Deleting placeholder meeting for succesful response (request id: %2, meeting id: %3)
+Microsoft-Windows-MCCS-ActiveSyncProvider	318	0	Event_318(HexInt32 Prop_Dword)		CommsService	task_0	Informational		ActiveSyncProvider: Updating tracking schema for account %1
+Microsoft-Windows-MCCS-ActiveSyncProvider	319	0	Event_319(HexInt32 Prop_Dword1, UInt32 Prop_Dword2)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [ItemMovesSyncSession] Ignoring invalid server response (status: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	320	0	Event_320(HexInt32 Prop_Dword, UnicodeString Prop_String)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [ItemMovesSyncSession] Ignoring successful response with missing destination id (sid: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	321	0	Event_321(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UnicodeString Prop_String)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [ItemMovesSyncSession] Ignoring unsolicited server response (sid: %3, status: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	322	0	Event_322(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UnicodeString Prop_String)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [ItemMovesSyncSession] The move operation failed with a transient error (sid: %3, status: %2). The move will be retried at a later time.
+Microsoft-Windows-MCCS-ActiveSyncProvider	323	0	Event_323(HexInt32 Prop_Dword1, UInt32 Prop_Dword2, UnicodeString Prop_String)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [ItemMovesSyncSession] The move operation failed with a permanent error (sid: %3, status: %2). The message will be moved back into its original folder.
+Microsoft-Windows-MCCS-ActiveSyncProvider	324	0	Event_324(HexInt32 Prop_Dword, UnicodeString Prop_String)		CommsService	task_0	Informational		ActiveSyncProvider:[Ctrl] [%1] [ItemMovesSyncSession] The move operation failed because the message no longer exists in its original folder (sid: %2). The message will be deleted.
+Microsoft-Windows-MCCS-ActiveSyncProvider	325	0	Event_325(HexInt32 Prop_Dword)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Detected server command of type %1 with invalid server id.
+Microsoft-Windows-MCCS-ActiveSyncProvider	326	0	Event_326(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Detected server command for item id %2 with invalid type %1.
+Microsoft-Windows-MCCS-ActiveSyncProvider	327	0	Event_327(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Detected server command for item id %2 of type %1 already handled in the previous response.
+Microsoft-Windows-MCCS-ActiveSyncProvider	328	0	Event_328(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Detected subsequent server command for item id %2 of type %1 in the same response. Only the last command will be cached
+Microsoft-Windows-MCCS-ActiveSyncProvider	329	0	Event_329(UnicodeString Prop_String)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Will handle duplicated server command for collection %1 because the request had client changes.
+Microsoft-Windows-MCCS-ActiveSyncProvider	330	0	Event_330(UnicodeString Prop_String)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Skipped invalid or duplicated server command for collection %1.
+Microsoft-Windows-MCCS-ActiveSyncProvider	331	0	Event_331(UnicodeString Prop_String1, UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Skipped %2 out of %3 server commands while processing the server response for collection %1.
+Microsoft-Windows-MCCS-ActiveSyncProvider	332	0	Event_332(UnicodeString Prop_String)		CommsService	task_0	Warning		ActiveSyncProvider:[Ctrl] [SyncFolderProgress] Detected duplicate or invalid server response for collection %1. The synchronization for this collection will be suspended for this session to prevent a potential sync loop.
+Microsoft-Windows-MCCS-ActiveSyncProvider	333	0	Event_333(UnicodeString Prop_String1, UInt32 Prop_Dword1, UnicodeString Prop_String2, UInt32 Prop_Dword2, UnicodeString Prop_String3, UInt32 Prop_Dword3)		CommsService	task_0	Error		ActiveSyncProvider: Detected invalid change for item %1 (change type: %2, expected parent: %3, expected parent type: %4, actual parent: %5, actual parent type: %6)
+Microsoft-Windows-MCCS-ActiveSyncProvider	334	0	Event_334(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		CommsService	task_0	Warning		Account %1 folder ID %2 is changed to ID %3
+Microsoft-Windows-MCCS-ActiveSyncProvider	335	0	Event_335(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Dword_2)		CommsService	task_0	Warning		Account %1 FolderSync presync: temporary ID %2, SID %3, type %4
+Microsoft-Windows-MCCS-ActiveSyncProvider	336	0	Event_336(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Dword_2)		CommsService	task_0	Warning		Account %1 FolderSync matched: temporary ID %2, SID %3, type %4
+Microsoft-Windows-MCCS-ActiveSyncProvider	401	0	Event_401()		Warning	task_0	Warning		ActiveSyncProvider: HTTP Send requires retry due to connection reset
+Microsoft-Windows-MCCS-ActiveSyncProvider	402	0	Event_402(Int32 Prop_ContentLengthBytes, AnsiString Prop_ContentChars)		Error	task_0	Error		ActiveSyncProvider: Unexpected content with Content-Type text/html encountered. Number of bytes=%1, First 256 characters: '%2'
+Microsoft-Windows-MCCS-ActiveSyncProvider	403	0	Event_403()		Warning	task_0	Warning		ActiveSyncProvider: WinHTTP Send requires retry
+Microsoft-Windows-MCCS-ActiveSyncProvider	421	0	Event_421(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		Fail to apply policy %1, hr:%2
+Microsoft-Windows-MCCS-ActiveSyncProvider	422	0	Event_422(UnicodeString Prop_String, Int32 Prop_HResult)		Warning	task_0	Warning		Fail to remove policy %1, hr:%2
+Microsoft-Windows-MCCS-ActiveSyncProvider	423	0	Event_423(UInt32 Prop_Dword_1, UnicodeString Prop_String1, HexInt32 Prop_Dword_2, Int32 Prop_HResult)		CommsService	task_0	Informational		ActiveSyncProvider: %1 Attempted to apply Exchange policy %2 with a polciy value %3, hr:%4
+Microsoft-Windows-MCCS-ActiveSyncProvider	501	0	Event_501(HexInt32 Prop_Dword)		Error	task_0	Error		ActiveSyncProvider: FolderSyncPendingResponse state: Empty Sync/Response loop detected for partner [%1]
+Microsoft-Windows-MCCS-ActiveSyncProvider	510	0	Event_510(UInt32 Prop_Length, UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: Ignoring unknown ContactHandle xml element '%2'
+Microsoft-Windows-MCCS-ActiveSyncProvider	511	0	Event_511(UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: Found ABCH handle with missing account id. Using the primary live account instead (object id: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	512	0	Event_512(UnicodeString Prop_String_1, UnicodeString Prop_String_2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring handle with missing source type (account id: %1, object id: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	513	0	Event_513(UnicodeString Prop_String_1, UnicodeString Prop_String_2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring handle with missing account id (source type: %1, object id: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	514	0	Event_514(UnicodeString Prop_String_1, UnicodeString Prop_String_2, UnicodeString Prop_String_3)		PeopleSync	task_0	Informational		PeopleSync: Ignoring handle with invalid object id (source type: %1, account id: %2, object id: %3)
+Microsoft-Windows-MCCS-ActiveSyncProvider	515	0	Event_515(UnicodeString Prop_String1, UnicodeString Prop_String2, UInt32 Prop_Length, Binary Prop_Binary)		PeopleSync	task_0	Informational		PeopleSync: Ignoring object with invalid remote object id (source type: %1, account id: %2, object id size: %3, object id: %4)
+Microsoft-Windows-MCCS-ActiveSyncProvider	516	0	Event_516()		PeopleSync	task_0	Informational		PeopleSync: Forgetting irrelevant client changes
+Microsoft-Windows-MCCS-ActiveSyncProvider	517	0	Event_517(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		PeopleSync	task_0	Informational		PeopleSync: Examined %1 client changes and found %2 relevant changes
+Microsoft-Windows-MCCS-ActiveSyncProvider	518	0	Event_518(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring invalid server command without a server id (command: %1, status: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	519	0	Event_519(UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: Ignoring server delete for an unknown person (server id: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	520	0	Event_520(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring invalid server response without a server or client id (command: %1, status: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	521	0	Event_521(HexInt32 Prop_Dword)		PeopleSync	task_0	Informational		PeopleSync: Ignoring invalid server Add response without a client id (status: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	522	0	Event_522(HexInt32 Prop_Dword)		PeopleSync	task_0	Informational		PeopleSync: Ignoring invalid server Change response without a server id (status: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	523	0	Event_523(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring server response with invalid type (command: %1, status: %2, server id: %3, client id: %4)
+Microsoft-Windows-MCCS-ActiveSyncProvider	524	0	Event_524(UInt32 Prop_Dword_1, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring unsolicited Add response (status: %1, server id: %2, client id: %3)
+Microsoft-Windows-MCCS-ActiveSyncProvider	525	0	Event_525(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		PeopleSync	task_0	Informational		PeopleSync: The client Add command for person %2 failed with status: %1
+Microsoft-Windows-MCCS-ActiveSyncProvider	526	0	Event_526(UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: Ignoring successful Add response for person %1 without a server id
+Microsoft-Windows-MCCS-ActiveSyncProvider	527	0	Event_527(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		PeopleSync	task_0	Informational		PeopleSync: Ignoring unsolicited Change response (status: %1, server id: %2)
+Microsoft-Windows-MCCS-ActiveSyncProvider	528	0	Event_528(UInt32 Prop_Dword_1, UnicodeString Prop_String1)		PeopleSync	task_0	Informational		PeopleSync: The client Change command for person %2 failed with status: %1
+Microsoft-Windows-MCCS-ActiveSyncProvider	529	0	Event_529(UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: Committing implied successful change (server id: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	530	0	Event_530(UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: The server failed to send a response for a client add command (client id: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	531	0	Event_531(GUID Prop_Guid)		PeopleSync	task_0	Informational		PeopleSync: Created anonymous group %1
+Microsoft-Windows-MCCS-ActiveSyncProvider	532	0	Event_532(GUID Prop_Guid, UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: Created new group %1 with name '%2'
+Microsoft-Windows-MCCS-ActiveSyncProvider	533	0	Event_533(GUID Prop_Guid, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		PeopleSync: Renamed group %1 from '%2' to '%3'
+Microsoft-Windows-MCCS-ActiveSyncProvider	534	0	Event_534(GUID Prop_Guid)		PeopleSync	task_0	Informational		PeopleSync: Deleted group %1
+Microsoft-Windows-MCCS-ActiveSyncProvider	535	0	Event_535(GUID Prop_Guid, UnicodeString Prop_String1, UnicodeString Prop_String2)		PeopleSync	task_0	Informational		PeopleSync: Ignoring new server group %1 with name '%3' because it already exists as '%2'
+Microsoft-Windows-MCCS-ActiveSyncProvider	536	0	Event_536(UnicodeString Prop_String_1, UnicodeString Prop_String_2)		PeopleSync	task_0	Informational		PeopleSync: Local group renamed from '%1' to '%2' because its name conflicts with a new server group name
+Microsoft-Windows-MCCS-ActiveSyncProvider	537	0	Event_537(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2, UInt32 Prop_Dword_3)		PeopleSync	task_0	Informational		PeopleSync: The number of changes after merging the server changes is equal to or exceeds the previous number of changes (current %1, previous %2, retry count %3)
+Microsoft-Windows-MCCS-ActiveSyncProvider	538	0	Event_538(UnicodeString Prop_String)		PeopleSync	task_0	Informational		PeopleSync: The person update doesn't have any contact handles. Handling it as if it were Delete (server id: %1)
+Microsoft-Windows-MCCS-ActiveSyncProvider	551	0	Event_551(UInt32 Prop_Dword_1, UInt32 Prop_Dword_2)		Error	task_0	Error		Conv Sync server abnormal: status:%d extended status:%d
+Microsoft-Windows-MCCS-ActiveSyncProvider	602	0	SPERF_TAG_SYNC_ENGINEStart()	Start	Performance	SPERF_TAG_SYNC_ENGINE	Informational		ActiveSyncProvider: [Start Marker] [E] [SPERF_TAG_SYNC_ENGINE_START] The parent node for the sync engine thread
+Microsoft-Windows-MCCS-ActiveSyncProvider	603	0	SPERF_TAG_SYNC_ENGINEStop()	Stop	Performance	SPERF_TAG_SYNC_ENGINE	Informational		ActiveSyncProvider: [Stop Marker] [E] [SPERF_TAG_SYNC_ENGINE_STOP] The parent node for the sync engine thread
+Microsoft-Windows-MCCS-ActiveSyncProvider	604	0	SPERF_TAG_GET_SERVER_CHANGE_CNTStart()	Start	Performance	SPERF_TAG_GET_SERVER_CHANGE_CNT	Informational		ActiveSyncProvider: [Start Marker] [GIE] [SPERF_TAG_GET_SERVER_CHANGE_CNT_START] Get the number of server changes for all folders
+Microsoft-Windows-MCCS-ActiveSyncProvider	605	0	SPERF_TAG_GET_SERVER_CHANGE_CNTStop()	Stop	Performance	SPERF_TAG_GET_SERVER_CHANGE_CNT	Informational		ActiveSyncProvider: [Stop Marker] [GIE] [SPERF_TAG_GET_SERVER_CHANGE_CNT_STOP] Get the number of server changes for all folders
+Microsoft-Windows-MCCS-ActiveSyncProvider	606	0	SPERF_TAG_VERSION_NEGOTIATIONStart()	Start	Performance	SPERF_TAG_VERSION_NEGOTIATION	Informational		ActiveSyncProvider: [Start Marker] [VerNeg] [SPERF_TAG_VERSION_NEGOTIATION_START] Version negotiation
+Microsoft-Windows-MCCS-ActiveSyncProvider	607	0	SPERF_TAG_VERSION_NEGOTIATIONStop()	Stop	Performance	SPERF_TAG_VERSION_NEGOTIATION	Informational		ActiveSyncProvider: [Stop Marker] [VerNeg] [SPERF_TAG_VERSION_NEGOTIATION_STOP] Version negotiation
+Microsoft-Windows-MCCS-ActiveSyncProvider	608	0	SPERF_TAG_FOLDER_SYNCStart()	Start	Performance	SPERF_TAG_FOLDER_SYNC	Informational		ActiveSyncProvider: [Start Marker] [FldrS] [SPERF_TAG_FOLDER_SYNC_START] GetHierarchy / FolderSync
+Microsoft-Windows-MCCS-ActiveSyncProvider	609	0	SPERF_TAG_FOLDER_SYNCStop()	Stop	Performance	SPERF_TAG_FOLDER_SYNC	Informational		ActiveSyncProvider: [Stop Marker] [FldrS] [SPERF_TAG_FOLDER_SYNC_STOP] GetHierarchy / FolderSync
+Microsoft-Windows-MCCS-ActiveSyncProvider	610	0	SPERF_TAG_HTTPStart()	Start	Performance	SPERF_TAG_HTTP	Informational		ActiveSyncProvider: [Start Marker] [Http] [SPERF_TAG_HTTP_START] Http operations
+Microsoft-Windows-MCCS-ActiveSyncProvider	611	0	SPERF_TAG_HTTPStop()	Stop	Performance	SPERF_TAG_HTTP	Informational		ActiveSyncProvider: [Stop Marker] [Http] [SPERF_TAG_HTTP_STOP] Http operations
+Microsoft-Windows-MCCS-ActiveSyncProvider	612	0	SPERF_TAG_GENERATE_AIR_REQUESTStart()	Start	Performance	SPERF_TAG_GENERATE_AIR_REQUEST	Informational		ActiveSyncProvider: [Start Marker] [GnAir] [SPERF_TAG_GENERATE_AIR_REQUEST_START] Generating AirSync request (XML)
+Microsoft-Windows-MCCS-ActiveSyncProvider	613	0	SPERF_TAG_GENERATE_AIR_REQUESTStop()	Stop	Performance	SPERF_TAG_GENERATE_AIR_REQUEST	Informational		ActiveSyncProvider: [Stop Marker] [GnAir] [SPERF_TAG_GENERATE_AIR_REQUEST_STOP] Generating AirSync request (XML)
+Microsoft-Windows-MCCS-ActiveSyncProvider	614	0	SPERF_TAG_PARSE_AIR_RESPONSEStart()	Start	Performance	SPERF_TAG_PARSE_AIR_RESPONSE	Informational		ActiveSyncProvider: [Start Marker] [PsAir] [SPERF_TAG_PARSE_AIR_RESPONSE_START] Parsing AirSync response (XML)
+Microsoft-Windows-MCCS-ActiveSyncProvider	615	0	SPERF_TAG_PARSE_AIR_RESPONSEStop()	Stop	Performance	SPERF_TAG_PARSE_AIR_RESPONSE	Informational		ActiveSyncProvider: [Stop Marker] [PsAir] [SPERF_TAG_PARSE_AIR_RESPONSE_STOP] Parsing AirSync response (XML)
+Microsoft-Windows-MCCS-ActiveSyncProvider	616	0	SPERF_TAG_SYNCSESSION_INITStart()	Start	Performance	SPERF_TAG_SYNCSESSION_INIT	Informational		ActiveSyncProvider: [Start Marker] [SyncInit] [SPERF_TAG_SYNCSESSION_INIT_START] Init the sync session and establish connection etc
+Microsoft-Windows-MCCS-ActiveSyncProvider	617	0	SPERF_TAG_SYNCSESSION_INITStop()	Stop	Performance	SPERF_TAG_SYNCSESSION_INIT	Informational		ActiveSyncProvider: [Stop Marker] [SyncInit] [SPERF_TAG_SYNCSESSION_INIT_STOP] Init the sync session and establish connection etc
+Microsoft-Windows-MCCS-ActiveSyncProvider	618	0	SPERF_TAG_SYNCSESSION_CLEANUPStart()	Start	Performance	SPERF_TAG_SYNCSESSION_CLEANUP	Informational		ActiveSyncProvider: [Start Marker] [SyncExit] [SPERF_TAG_SYNCSESSION_CLEANUP_START] SynchronizeList main function cleanup and error handling code
+Microsoft-Windows-MCCS-ActiveSyncProvider	619	0	SPERF_TAG_SYNCSESSION_CLEANUPStop()	Stop	Performance	SPERF_TAG_SYNCSESSION_CLEANUP	Informational		ActiveSyncProvider: [Stop Marker] [SyncExit] [SPERF_TAG_SYNCSESSION_CLEANUP_STOP] SynchronizeList main function cleanup and error handling code
+Microsoft-Windows-MCCS-ActiveSyncProvider	620	0	SPERF_TAG_SESSION_BEGINSYNCStart()	Start	Performance	SPERF_TAG_SESSION_BEGINSYNC	Informational		ActiveSyncProvider: [Start Marker] [BeginSync] [SPERF_TAG_SESSION_BEGINSYNC_START] Folder Hierarchy, Change tracking etc
+Microsoft-Windows-MCCS-ActiveSyncProvider	621	0	SPERF_TAG_SESSION_BEGINSYNCStop()	Stop	Performance	SPERF_TAG_SESSION_BEGINSYNC	Informational		ActiveSyncProvider: [Stop Marker] [BeginSync] [SPERF_TAG_SESSION_BEGINSYNC_STOP] Folder Hierarchy, Change tracking etc
+Microsoft-Windows-MCCS-ActiveSyncProvider	622	0	SPERF_TAG_PROCESSRESPONSEStart()	Start	Performance	SPERF_TAG_PROCESSRESPONSE	Informational		ActiveSyncProvider: [Start Marker] [Resp] [SPERF_TAG_PROCESSRESPONSE_START] Process the server response
+Microsoft-Windows-MCCS-ActiveSyncProvider	623	0	SPERF_TAG_PROCESSRESPONSEStop()	Stop	Performance	SPERF_TAG_PROCESSRESPONSE	Informational		ActiveSyncProvider: [Stop Marker] [Resp] [SPERF_TAG_PROCESSRESPONSE_STOP] Process the server response
+Microsoft-Windows-MCCS-ActiveSyncProvider	626	0	SPERF_TAG_PIM_CHANGECOUNTStart()	Start	Performance	SPERF_TAG_PIM_CHANGECOUNT	Informational		ActiveSyncProvider: [Start Marker] [PoomChg] [SPERF_TAG_PIM_CHANGECOUNT_START] Get the changes count for PIM folders
+Microsoft-Windows-MCCS-ActiveSyncProvider	627	0	SPERF_TAG_PIM_CHANGECOUNTStop()	Stop	Performance	SPERF_TAG_PIM_CHANGECOUNT	Informational		ActiveSyncProvider: [Stop Marker] [PoomChg] [SPERF_TAG_PIM_CHANGECOUNT_STOP] Get the changes count for PIM folders
+Microsoft-Windows-MCCS-ActiveSyncProvider	628	0	SPERF_TAG_GET_SYNC_CMDStart()	Start	Performance	SPERF_TAG_GET_SYNC_CMD	Informational		ActiveSyncProvider: [Start Marker] [GtSC] [SPERF_TAG_GET_SYNC_CMD_START] Getting a sync cmd from the provider
+Microsoft-Windows-MCCS-ActiveSyncProvider	629	0	SPERF_TAG_GET_SYNC_CMDStop()	Stop	Performance	SPERF_TAG_GET_SYNC_CMD	Informational		ActiveSyncProvider: [Stop Marker] [GtSC] [SPERF_TAG_GET_SYNC_CMD_STOP] Getting a sync cmd from the provider
+Microsoft-Windows-MCCS-ActiveSyncProvider	630	0	SPERF_TAG_HANDLE_SERVER_CMDStart()	Start	Performance	SPERF_TAG_HANDLE_SERVER_CMD	Informational		ActiveSyncProvider: [Start Marker] [HdSC] [SPERF_TAG_HANDLE_SERVER_CMD_START] Handling AirSync response
+Microsoft-Windows-MCCS-ActiveSyncProvider	631	0	SPERF_TAG_HANDLE_SERVER_CMDStop()	Stop	Performance	SPERF_TAG_HANDLE_SERVER_CMD	Informational		ActiveSyncProvider: [Stop Marker] [HdSC] [SPERF_TAG_HANDLE_SERVER_CMD_STOP] Handling AirSync response
+Microsoft-Windows-MCCS-ActiveSyncProvider	632	0	SPERF_TAG_READ_STOREStart()	Start	Performance	SPERF_TAG_READ_STORE	Informational		ActiveSyncProvider: [Start Marker] [RSt] [SPERF_TAG_READ_STORE_START] Reading object (e. g. Contact) props from PIM/MAPI storage
+Microsoft-Windows-MCCS-ActiveSyncProvider	633	0	SPERF_TAG_READ_STOREStop()	Stop	Performance	SPERF_TAG_READ_STORE	Informational		ActiveSyncProvider: [Stop Marker] [RSt] [SPERF_TAG_READ_STORE_STOP] Reading object (e. g. Contact) props from PIM/MAPI storage
+Microsoft-Windows-MCCS-ActiveSyncProvider	634	0	SPERF_TAG_WRITE_STOREStart()	Start	Performance	SPERF_TAG_WRITE_STORE	Informational		ActiveSyncProvider: [Start Marker] [WSt] [SPERF_TAG_WRITE_STORE_START] Writing object (e. g. Contact) props to PIM/MAPI storage
+Microsoft-Windows-MCCS-ActiveSyncProvider	635	0	SPERF_TAG_WRITE_STOREStop()	Stop	Performance	SPERF_TAG_WRITE_STORE	Informational		ActiveSyncProvider: [Stop Marker] [WSt] [SPERF_TAG_WRITE_STORE_STOP] Writing object (e. g. Contact) props to PIM/MAPI storage
+Microsoft-Windows-MCCS-ActiveSyncProvider	636	0	SPERF_TAG_GET_NAMEDPROPIDStart()	Start	Performance	SPERF_TAG_GET_NAMEDPROPID	Informational		ActiveSyncProvider: [Start Marker] [StoreId] [SPERF_TAG_GET_NAMEDPROPID_START] Get the message store and get PropIds from names
+Microsoft-Windows-MCCS-ActiveSyncProvider	637	0	SPERF_TAG_GET_NAMEDPROPIDStop()	Stop	Performance	SPERF_TAG_GET_NAMEDPROPID	Informational		ActiveSyncProvider: [Stop Marker] [StoreId] [SPERF_TAG_GET_NAMEDPROPID_STOP] Get the message store and get PropIds from names
+Microsoft-Windows-MCCS-ActiveSyncProvider	642	0	SPERF_TAG_PIM_ITEMSAVEStart()	Start	Performance	SPERF_TAG_PIM_ITEMSAVE	Informational		ActiveSyncProvider: [Start Marker] [PimSave] [SPERF_TAG_PIM_ITEMSAVE_START] Save the PIM item to the Unified Store
+Microsoft-Windows-MCCS-ActiveSyncProvider	643	0	SPERF_TAG_PIM_ITEMSAVEStop()	Stop	Performance	SPERF_TAG_PIM_ITEMSAVE	Informational		ActiveSyncProvider: [Stop Marker] [PimSave] [SPERF_TAG_PIM_ITEMSAVE_STOP] Save the PIM item to the Unified Store
+Microsoft-Windows-MCCS-ActiveSyncProvider	646	0	SPERF_TAG_SYNC_SRVCMDStart(HexInt32 Prop_Dword)	Start	Performance	SPERF_TAG_SYNC_SRVCMD	Informational		ActiveSyncProvider: [Start Marker] [%1] [SPERF_TAG_SYNC_SRVCMD_START]
+Microsoft-Windows-MCCS-ActiveSyncProvider	647	0	SPERF_TAG_SYNC_SRVCMDStop(HexInt32 Prop_Dword)	Stop	Performance	SPERF_TAG_SYNC_SRVCMD	Informational		ActiveSyncProvider: [Stop Marker] [%1] [SPERF_TAG_SYNC_SRVCMD_STOP]
+Microsoft-Windows-MCCS-ActiveSyncProvider	664	0	SPERF_TAG_SEND_MAILStart()	Start	Performance	SPERF_TAG_SEND_MAIL	Informational		ActiveSyncProvider: [Start Marker] [SndM] [SPERF_TAG_SEND_MAIL_START] SendMail command
+Microsoft-Windows-MCCS-ActiveSyncProvider	665	0	SPERF_TAG_SEND_MAILStop()	Stop	Performance	SPERF_TAG_SEND_MAIL	Informational		ActiveSyncProvider: [Stop Marker] [SndM] [SPERF_TAG_SEND_MAIL_STOP] SendMail command
+Microsoft-Windows-MCCS-ActiveSyncProvider	666	0	SPERF_TAG_CONVERT_TO_MIMEStart()	Start	Performance	SPERF_TAG_CONVERT_TO_MIME	Informational		ActiveSyncProvider: [Start Marker] [Mime] [SPERF_TAG_CONVERT_TO_MIME_START] Convert mail message to MIME format
+Microsoft-Windows-MCCS-ActiveSyncProvider	667	0	SPERF_TAG_CONVERT_TO_MIMEStop()	Stop	Performance	SPERF_TAG_CONVERT_TO_MIME	Informational		ActiveSyncProvider: [Stop Marker] [Mime] [SPERF_TAG_CONVERT_TO_MIME_STOP] Convert mail message to MIME format
+Microsoft-Windows-MCCS-ActiveSyncProvider	668	0	SPERF_TAG_SMART_REPLYStart()	Start	Performance	SPERF_TAG_SMART_REPLY	Informational		ActiveSyncProvider: [Start Marker] [SmR] [SPERF_TAG_SMART_REPLY_START] Extra processing needed for SmartReply/SmartForward messages
+Microsoft-Windows-MCCS-ActiveSyncProvider	669	0	SPERF_TAG_SMART_REPLYStop()	Stop	Performance	SPERF_TAG_SMART_REPLY	Informational		ActiveSyncProvider: [Stop Marker] [SmR] [SPERF_TAG_SMART_REPLY_STOP] Extra processing needed for SmartReply/SmartForward messages
+Microsoft-Windows-MCCS-ActiveSyncProvider	676	0	SPERF_TAG_GET_FETCH_IDSStart()	Start	Performance	SPERF_TAG_GET_FETCH_IDS	Informational		ActiveSyncProvider: [Start Marker] [Fetch] [SPERF_TAG_GET_FETCH_IDS_START] Get the messages marked for download for one folder
+Microsoft-Windows-MCCS-ActiveSyncProvider	677	0	SPERF_TAG_GET_FETCH_IDSStop()	Stop	Performance	SPERF_TAG_GET_FETCH_IDS	Informational		ActiveSyncProvider: [Stop Marker] [Fetch] [SPERF_TAG_GET_FETCH_IDS_STOP] Get the messages marked for download for one folder
+Microsoft-Windows-MCCS-ActiveSyncProvider	692	0	SPERF_TAG_GET_NEXT_CHANGEStart()	Start	Performance	SPERF_TAG_GET_NEXT_CHANGE	Informational		ActiveSyncProvider: [Start Marker] [GtCg] [SPERF_TAG_GET_NEXT_CHANGE_START] Getting the next changed item
+Microsoft-Windows-MCCS-ActiveSyncProvider	693	0	SPERF_TAG_GET_NEXT_CHANGEStop()	Stop	Performance	SPERF_TAG_GET_NEXT_CHANGE	Informational		ActiveSyncProvider: [Stop Marker] [GtCg] [SPERF_TAG_GET_NEXT_CHANGE_STOP] Getting the next changed item
+Microsoft-Windows-MCCS-ActiveSyncProvider	708	0	SPERF_TAG_PINGStart()	Start	Performance	SPERF_TAG_PING	Informational		ActiveSyncProvider: [Start Marker] [Ping] [SPERF_TAG_PING_START] The parent node for the ping thread
+Microsoft-Windows-MCCS-ActiveSyncProvider	709	0	SPERF_TAG_PINGStop()	Stop	Performance	SPERF_TAG_PING	Informational		ActiveSyncProvider: [Stop Marker] [Ping] [SPERF_TAG_PING_STOP] The parent node for the ping thread
+Microsoft-Windows-MCCS-ActiveSyncProvider	712	0	SPERF_TAG_FETCH_SERVICEStart()	Start	Performance	SPERF_TAG_FETCH_SERVICE	Informational		ActiveSyncProvider: [Start Marker] [Ftch] [SPERF_TAG_FETCH_SERVICE_START] Out of band fetch service
+Microsoft-Windows-MCCS-ActiveSyncProvider	713	0	SPERF_TAG_FETCH_SERVICEStop()	Stop	Performance	SPERF_TAG_FETCH_SERVICE	Informational		ActiveSyncProvider: [Stop Marker] [Ftch] [SPERF_TAG_FETCH_SERVICE_STOP] Out of band fetch service
+Microsoft-Windows-MCCS-ActiveSyncProvider	714	0	SPERF_TAG_FETCH_DOCINFOStart()	Start	Performance	SPERF_TAG_FETCH_DOCINFO	Informational		ActiveSyncProvider: [Start Marker] [FtchDoc] [SPERF_TAG_FETCH_DOCINFO_START] Get document metadata for fetch service
+Microsoft-Windows-MCCS-ActiveSyncProvider	715	0	SPERF_TAG_FETCH_DOCINFOStop()	Stop	Performance	SPERF_TAG_FETCH_DOCINFO	Informational		ActiveSyncProvider: [Stop Marker] [FtchDoc] [SPERF_TAG_FETCH_DOCINFO_STOP] Get document metadata for fetch service
+Microsoft-Windows-MCCS-ActiveSyncProvider	718	0	SPERF_TAG_SEARCH_FALLBACKStart()	Start	Performance	SPERF_TAG_SEARCH_FALLBACK	Informational		ActiveSyncProvider: [Start Marker] [SrFbk] [SPERF_TAG_SEARCH_FALLBACK_START] Going through search folders (fallback)
+Microsoft-Windows-MCCS-ActiveSyncProvider	719	0	SPERF_TAG_SEARCH_FALLBACKStop()	Stop	Performance	SPERF_TAG_SEARCH_FALLBACK	Informational		ActiveSyncProvider: [Stop Marker] [SrFbk] [SPERF_TAG_SEARCH_FALLBACK_STOP] Going through search folders (fallback)
+Microsoft-Windows-MCCS-ActiveSyncProvider	720	0	SPERF_TAG_SERVERSYNC_INITStart()	Start	Performance	SPERF_TAG_SERVERSYNC_INIT	Informational		ActiveSyncProvider: [Start Marker] [SrvSInit] [SPERF_TAG_SERVERSYNC_INIT_START] Server Sync Handler initialization
+Microsoft-Windows-MCCS-ActiveSyncProvider	721	0	SPERF_TAG_SERVERSYNC_INITStop()	Stop	Performance	SPERF_TAG_SERVERSYNC_INIT	Informational		ActiveSyncProvider: [Stop Marker] [SrvSInit] [SPERF_TAG_SERVERSYNC_INIT_STOP] Server Sync Handler initialization
+Microsoft-Windows-MCCS-ActiveSyncProvider	732	0	SPERF_TAG_AUTODISCOVERStart()	Start	Performance	SPERF_TAG_AUTODISCOVER	Informational		ActiveSyncProvider: [Start Marker] [AutoD] [SPERF_TAG_AUTODISCOVER_START] Time taken to complete autodiscover.
+Microsoft-Windows-MCCS-ActiveSyncProvider	733	0	SPERF_TAG_AUTODISCOVERStop()	Stop	Performance	SPERF_TAG_AUTODISCOVER	Informational		ActiveSyncProvider: [Stop Marker] [AutoD] [SPERF_TAG_AUTODISCOVER_STOP] Time taken to complete autodiscover.
 Microsoft-Windows-MCCS-ActiveSyncProvider	754	0	SPERF_TAG_PEOPLE_MERGEStart()	Start	Performance	SPERF_TAG_PEOPLE_MERGE	Informational		
 Microsoft-Windows-MCCS-ActiveSyncProvider	755	0	SPERF_TAG_PEOPLE_MERGEStop()	Stop	Performance	SPERF_TAG_PEOPLE_MERGE	Informational		
 Microsoft-Windows-MCCS-ActiveSyncProvider	756	0	SPERF_TAG_PERSONS_MERGEStart()	Start	Performance	SPERF_TAG_PERSONS_MERGE	Informational		
@@ -148,18 +148,18 @@ Microsoft-Windows-MCCS-ActiveSyncProvider	766	0	SPERF_TAG_MERGE_PERSONS_CHANGE_B
 Microsoft-Windows-MCCS-ActiveSyncProvider	767	0	SPERF_TAG_MERGE_PERSONS_CHANGE_BATCHStop()	Stop	Performance	SPERF_TAG_MERGE_PERSONS_CHANGE_BATCH	Informational		
 Microsoft-Windows-MCCS-ActiveSyncProvider	768	0	SPERF_TAG_MERGE_LINKS_CHANGE_BATCHStart()	Start	Performance	SPERF_TAG_MERGE_LINKS_CHANGE_BATCH	Informational		
 Microsoft-Windows-MCCS-ActiveSyncProvider	769	0	SPERF_TAG_MERGE_LINKS_CHANGE_BATCHStop()	Stop	Performance	SPERF_TAG_MERGE_LINKS_CHANGE_BATCH	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	801	0	task_0801(HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	803	0	task_0803(HexInt32 Prop_Dword, HexInt32 Prop_HRESULT)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	804	0	task_0804(HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	805	0	task_0805(HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	806	0	task_0806()		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	807	0	task_0807(HexInt32 Prop_Dword)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	808	0	task_0808(HexInt32 Prop_Dword)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	809	0	task_0809(HexInt32 Prop_Dword)		CommsService	task_0	Warning		
-Microsoft-Windows-MCCS-ActiveSyncProvider	850	0	task_0850(HexInt32 Prop_Dword, HexInt32 Prop_HRESULT)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	851	0	task_0851(UInt64 Prop_Ulong, HexInt32 Prop_Hex)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	852	0	task_0852(HexInt32 Prop_HRESULT, UnicodeString Prop_String1, HexInt32 Prop_Dword)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	901	0	task_0901(HexInt32 Prop_Dword, HexInt32 Prop_HRESULT)		Error	task_0	Error		
-Microsoft-Windows-MCCS-ActiveSyncProvider	1010	0	task_01010(GUID Prop_Guid, HexInt32 Prop_HexInt32)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	1011	0	task_01011(GUID Prop_Guid, HexInt32 Prop_HexInt32)		CommsService	task_0	Informational		
-Microsoft-Windows-MCCS-ActiveSyncProvider	1021	0	task_01021(HexInt32 Prop_Dword)		CommsService	task_0	Warning		
+Microsoft-Windows-MCCS-ActiveSyncProvider	801	0	Event_801(HexInt32 Prop_Dword)		CommsService	task_0	Informational		AUTDExecutor: Account %1 Heartbeat scheduled immediate sync.
+Microsoft-Windows-MCCS-ActiveSyncProvider	803	0	Event_803(HexInt32 Prop_Dword, HexInt32 Prop_HRESULT)		Warning	task_0	Warning		AUTDExecutor: Account %1 Heartbeat ended with HR 0x%2.
+Microsoft-Windows-MCCS-ActiveSyncProvider	804	0	Event_804(HexInt32 Prop_Dword)		CommsService	task_0	Informational		AUTDExecutor: Account %1 entered AUTD Method
+Microsoft-Windows-MCCS-ActiveSyncProvider	805	0	Event_805(HexInt32 Prop_Dword)		CommsService	task_0	Informational		AUTDExecutor: Account %1 left AUTD Method
+Microsoft-Windows-MCCS-ActiveSyncProvider	806	0	Event_806()		CommsService	task_0	Warning		AUTDExecutor: Unknown AUTD support level. Defaulting to Ping
+Microsoft-Windows-MCCS-ActiveSyncProvider	807	0	Event_807(HexInt32 Prop_Dword)		CommsService	task_0	Warning		Account 0x%1 Heartbeat for ping out of range.
+Microsoft-Windows-MCCS-ActiveSyncProvider	808	0	Event_808(HexInt32 Prop_Dword)		CommsService	task_0	Warning		Account 0x%1 Heartbeat for sync out of range.
+Microsoft-Windows-MCCS-ActiveSyncProvider	809	0	Event_809(HexInt32 Prop_Dword)		CommsService	task_0	Warning		Account 0x%1 FolderHierarchyChanged during Ping session.
+Microsoft-Windows-MCCS-ActiveSyncProvider	850	0	Event_850(HexInt32 Prop_Dword, HexInt32 Prop_HRESULT)		CommsService	task_0	Informational		AutdSync: [Ctrl] [%2] Hanging sync response received. HR=%1
+Microsoft-Windows-MCCS-ActiveSyncProvider	851	0	Event_851(UInt64 Prop_Ulong, HexInt32 Prop_Hex)		CommsService	task_0	Informational		AutdSync: [Ctrl] [%2] Hanging sync sent. Heartbeat=%1
+Microsoft-Windows-MCCS-ActiveSyncProvider	852	0	Event_852(HexInt32 Prop_HRESULT, UnicodeString Prop_String1, HexInt32 Prop_Dword)		CommsService	task_0	Informational		AutdSync: [Ctrl] [%3] Hanging sync status = %1, %2,
+Microsoft-Windows-MCCS-ActiveSyncProvider	901	0	Event_901(HexInt32 Prop_Dword, HexInt32 Prop_HRESULT)		Error	task_0	Error		ActiveSyncProvider: Failed to get Rfc1766 info with locale=%1, HRESULT=%2
+Microsoft-Windows-MCCS-ActiveSyncProvider	1010	0	Event_1010(GUID Prop_Guid, HexInt32 Prop_HexInt32)		CommsService	task_0	Informational		ActiveSyncProvider: Stop syncing ActiveSync account %1 content type: %2.
+Microsoft-Windows-MCCS-ActiveSyncProvider	1011	0	Event_1011(GUID Prop_Guid, HexInt32 Prop_HexInt32)		CommsService	task_0	Informational		ActiveSyncProvider: Due to version negotication, Purging ActiveSync account %1 content type: %2.
+Microsoft-Windows-MCCS-ActiveSyncProvider	1021	0	Event_1021(HexInt32 Prop_Dword)		CommsService	task_0	Warning		ActiveSyncProvider: Gal search fails to fetch contact photo, status:%1.

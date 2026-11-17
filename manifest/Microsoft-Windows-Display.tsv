@@ -1,5 +1,5 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
-Microsoft-Windows-Display	120	0	DisplayCpl_SettingsPage_EnumAllDisplaysStart()	Start	DisplayCPL	DisplayCpl_SettingsPage_EnumAllDisplays	Informational		
-Microsoft-Windows-Display	121	0	DisplayCpl_SettingsPage_EnumAllDisplaysStop()	Stop	DisplayCPL	DisplayCpl_SettingsPage_EnumAllDisplays	Informational		
-Microsoft-Windows-Display	129	0	DisplayCpl_EnumerateStereo3DModesStart()	Start	DisplayCPL	DisplayCpl_EnumerateStereo3DModes	Informational		
-Microsoft-Windows-Display	130	0	DisplayCpl_EnumerateStereo3DModesStop()	Stop	DisplayCPL	DisplayCpl_EnumerateStereo3DModes	Informational		
+Microsoft-Windows-Display	120	0	DisplayCpl_SettingsPage_EnumAllDisplaysStart()	Start	DisplayCPL	DisplayCpl_SettingsPage_EnumAllDisplays	Informational		Display Settings Page Enumerating Displays - Start
+Microsoft-Windows-Display	121	0	DisplayCpl_SettingsPage_EnumAllDisplaysStop()	Stop	DisplayCPL	DisplayCpl_SettingsPage_EnumAllDisplays	Informational		Display Settings Page Enumerating Displays - Finish
+Microsoft-Windows-Display	129	0	DisplayCpl_EnumerateStereo3DModesStart()	Start	DisplayCPL	DisplayCpl_EnumerateStereo3DModes	Informational		Enumerate Stereoscopic 3D Modes - Start
+Microsoft-Windows-Display	130	0	DisplayCpl_EnumerateStereo3DModesStop()	Stop	DisplayCPL	DisplayCpl_EnumerateStereo3DModes	Informational		Enumerate Stereoscopic 3D Modes - Finish

@@ -1,0 +1,2 @@
+provider	tdh_status	resource_file
+Microsoft-Windows-ZTHELPER	ERROR_EMPTY	%SystemRoot%\System32\zthelper.dll

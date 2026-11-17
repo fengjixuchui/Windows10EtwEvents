@@ -1,2 +1,2 @@
-provider
-Microsoft-Windows-DDisplay
+provider	tdh_status	resource_file
+Microsoft-Windows-DDisplay	ERROR_EMPTY	%SystemRoot%\system32\ddisplay.dll

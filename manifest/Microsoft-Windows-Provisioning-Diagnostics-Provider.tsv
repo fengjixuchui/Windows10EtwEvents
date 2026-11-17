@@ -1,101 +1,108 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
-Microsoft-Windows-Provisioning-Diagnostics-Provider	10	0	task_0(UnicodeString Message1, UnicodeString Message2)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	11	0	task_011(UnicodeString Message1, UnicodeString Message2)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	12	0	task_012(UnicodeString Message1, HexInt32 HRESULT, UnicodeString Message2, UnicodeString Message3)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	20	0	task_020(UnicodeString Message1, UnicodeString Message2)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	21	0	task_021(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	22	0	task_022(UnicodeString Message1, HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	40	0	task_040(UnicodeString Message1)			task_0	Warning		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	41	0	task_041()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	42	0	task_042(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	43	0	task_043()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	44	0	task_044()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	45	0	task_045(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	60	0	task_060(UInt32 UInt1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	61	0	task_061(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	62	0	task_062(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	63	0	task_063(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	64	0	task_064(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	65	0	task_065(HexInt32 HRESULT, UnicodeString Message1, UInt32 Uint1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	66	0	task_066(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	67	0	task_067(HexInt32 HRESULT, UnicodeString Message1, UInt32 Uint1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	68	0	task_068(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	69	0	task_069(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	70	0	task_070(Int32 Int1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	71	0	task_071(Int32 Int1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	72	0	task_072(Int32 Int1, HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	80	0	task_080(UInt32 UInt1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	81	0	task_081(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	82	0	task_082(UInt32 UInt1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	83	0	task_083(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	90	0	task_090(UnicodeString Message1, UnicodeString Message2, UnicodeString Message3)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	91	0	task_091(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	92	0	task_092(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	93	0	task_093(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	94	0	task_094(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	100	0	task_0100(UnicodeString Message1)			task_0	Warning		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	101	0	task_0101(UnicodeString Message1, Int32 Int1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	102	0	task_0102(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	103	0	task_0103(UnicodeString Message1, UnicodeString Message2)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	104	0	task_0104(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	105	0	task_0105()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	106	0	task_0106(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	107	0	task_0107(UnicodeString Message1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	108	0	task_0108(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	109	0	task_0109(UnicodeString Message1, UnicodeString Message2)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	110	0	task_0110(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	111	0	task_0111()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	112	0	task_0112(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	113	0	task_0113(Int32 Int1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	114	0	task_0114()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	115	0	task_0115(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	150	0	task_0150()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	151	0	task_0151()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	152	0	task_0152()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	153	0	task_0153(UInt32 InitialState, UInt32 UpdateState)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	154	0	task_0154(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	155	0	task_0155(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	156	0	task_0156()			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	157	0	task_0157(UInt64 UInt1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	160	0	task_0160()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	161	0	task_0161()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	162	0	task_0162()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	163	0	task_0163()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	164	0	task_0164()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	165	0	task_0165()			task_0	Warning		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	166	0	task_0166()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	167	0	task_0167()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	168	0	task_0168()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	169	0	task_0169()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	170	0	task_0170()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	171	0	task_0171(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	172	0	task_0172(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	173	0	task_0173(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	174	0	task_0174(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	175	0	task_0175(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	176	0	task_0176(UInt32 Uint1, UInt32 Uint2)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	177	0	task_0177(UInt32 Uint1, UInt32 Uint2)			task_0	Warning		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	178	0	task_0178(Int32 Int1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	179	0	task_0179(UInt32 State)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	180	0	task_0180(UInt32 State, HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	181	0	task_0181(UInt32 State, HexInt32 HRESULT)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	182	0	task_0182(UInt32 UInt1)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	183	0	task_0183()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	184	0	task_0184(HexInt32 HRESULT)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	300	0	task_0300(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	301	0	task_0301(UInt32 State, HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	302	0	task_0302(UInt32 State, HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	303	0	task_0303(UInt32 State)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	310	0	task_0310(UnicodeString Message1, UnicodeString Message2, UnicodeString Message3)			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	311	0	task_0311(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	312	0	task_0312(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	313	0	task_0313(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1000	0	task_01000()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1001	0	task_01001()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1002	0	task_01002(HexInt32 HRESULT)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1003	0	task_01003()			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1004	0	task_01004()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1005	0	task_01005(HexInt32 HRESULT, AnsiString File, Int32 Line, UnicodeString Message)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1006	0	task_01006(UnicodeString Message1)			task_0	Error		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1007	0	task_01007()			task_0	Informational		
-Microsoft-Windows-Provisioning-Diagnostics-Provider	1008	0	task_01008(HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-Provisioning-Diagnostics-Provider	10	0	Event_10(UnicodeString Message1, UnicodeString Message2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Configuring ProvXML with category '%1'.\r\n\r\nProvXML data:\r\n%2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	11	0	Event_11(UnicodeString Message1, UnicodeString Message2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	ProvXML category '%1' completed successfully. %2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	12	0	Event_12(UnicodeString Message1, HexInt32 HRESULT, UnicodeString Message2, UnicodeString Message3)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	ProvXML category '%1' failed with '%2' at CSP node '%3'. %4
+Microsoft-Windows-Provisioning-Diagnostics-Provider	13	0	Event_13(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Setting %1 was ignored because it was not available on this OS build
+Microsoft-Windows-Provisioning-Diagnostics-Provider	20	0	Event_20(UnicodeString Message1, UnicodeString Message2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Applying package '%1' ID: %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	21	0	Event_21(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Package '%1' has completed.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	22	0	Event_22(UnicodeString Message1, HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Package '%1' failed with '%2'.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	23	0	Event_23(UnicodeString Message1, UnicodeString Message2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Skipping package '%1' ID: %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	40	0	Event_40(UnicodeString Message1)			task_0	Warning	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Registry specified search path is invalid: %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	41	0	Event_41()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	InitiateSystemShutdownEx succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	42	0	Event_42(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	InitiateSystemShutdownEx failed. HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	43	0	Event_43()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Start RebootSystem ...
+Microsoft-Windows-Provisioning-Diagnostics-Provider	44	0	Event_44()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	InitiateSystemShutdownEx succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	45	0	Event_45(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	InitiateSystemShutdownEx failed. HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	60	0	Event_60(UInt32 UInt1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	AddPackage initiated, pathCount = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	61	0	Event_61(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	AddPackage succeeded, targetPath = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	62	0	Event_62(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	AddPackage failed. HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	63	0	Event_63(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemovePackage initiated, package id = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	64	0	Event_64(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemovePackage succeeded, package id = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	65	0	Event_65(HexInt32 HRESULT, UnicodeString Message1, UInt32 Uint1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemovePackage failed. HRESULT = %1, package id = %2, at stage = %3
+Microsoft-Windows-Provisioning-Diagnostics-Provider	66	0	Event_66(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemovePackageMetadata succeeded, package id = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	67	0	Event_67(HexInt32 HRESULT, UnicodeString Message1, UInt32 Uint1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemovePackageMetadata failed. HRESULT = %1, package id = %2, at stage = %3
+Microsoft-Windows-Provisioning-Diagnostics-Provider	68	0	Event_68(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemoveResourceManagerPackageMetadataForCsp succeeded, package id = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	69	0	Event_69(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RemoveResourceManagerPackageMetadataForCsp failed. HRESULT = %1, package id = %2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	70	0	Event_70(Int32 Int1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	ApplyKnownPackages initiated, turn = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	71	0	Event_71(Int32 Int1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	ApplyKnownPackages succeeded, turn = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	72	0	Event_72(Int32 Int1, HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	ApplyKnownPackages failed. turn = %1, HRESULT = %2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	73	0	Event_73(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	PublishDeviceProvisioningLogs failed. HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	74	0	Event_74()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	PublishDeviceProvisioningLogs succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	75	0	Event_75(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	CleanupOOBEProvisioningLogs failed. HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	76	0	Event_76()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	CleanupOOBEProvisioningLogs succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	80	0	Event_80(UInt32 UInt1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	GetLastProvisioningResultsAsync succeeded, resultCount = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	81	0	Event_81(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	GetLastProvisioningResultsAsync failed. HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	82	0	Event_82(UInt32 UInt1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	GetLastProvisioningCommandResultsAsync succeeded, resultCount = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	83	0	Event_83(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	GetLastProvisioningCommandResultsAsync. HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	90	0	Event_90(UnicodeString Message1, UnicodeString Message2, UnicodeString Message3)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	Settings detail.\r\nsource = %1.\r\npackageIdToDelete = %2.\r\npackagePathsToAdd = %3.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	91	0	Event_91(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RegisterForCspAlerts succeeded. EnrollmentId = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	92	0	Event_92(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	RegisterForCspAlerts Failed. HResult = %1, EnrollmentId = %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	93	0	Event_93(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	UpdatePendingResultInternal succeeded. PackageId = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	94	0	Event_94(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin	UpdatePendingResultInternal Failed. HResult = %1, PackageId = %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	100	0	Event_100(UnicodeString Message1)			task_0	Warning	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilot policy [%1] not found.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	101	0	Event_101(UnicodeString Message1, Int32 Int1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotGetPolicyDwordByName succeeded:  policy name = %1; policy value = %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	102	0	Event_102(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotGetPolicyDwordByName error:  policy name = %2; HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	103	0	Event_103(UnicodeString Message1, UnicodeString Message2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotGetPolicyStringByName succeeded:  policy name = %1; policy value = %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	104	0	Event_104(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotGetPolicyStringByName error:  policy name = %2; HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	105	0	Event_105()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotDisable succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	106	0	Event_106(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotDisable error:  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	107	0	Event_107(UnicodeString Message1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilot state = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	108	0	Event_108(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotIsDisabled error:  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	109	0	Event_109(UnicodeString Message1, UnicodeString Message2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotGetOobeSettingsOverride succeeded:  OOBE setting = %1; state = %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	110	0	Event_110(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotGetOobeSettingsOverride error:  OOBE setting = %2; HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	111	0	Event_111()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotRetrieveSettings succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	112	0	Event_112(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotRetrieveSettings error:  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	113	0	Event_113(Int32 Int1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilot reported the DLL was unloaded while there were %1 outstanding calls.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	114	0	Event_114()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotRetrieveSettings was skipped because this version of Windows does not support Azure Active Directory join.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	115	0	Event_115(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	Autopilot discovery failed to find a valid MDM.  Confirm that the AAD tenant is properly provisioned and licensed for exactly one MDM.  HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	150	0	Event_150()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager started the MSA service for TPM attestation identity.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	151	0	Event_151()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager started the TPM task to update TPM attestation.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	152	0	Event_152()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported TPM task is complete.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	153	0	Event_153(UInt32 InitialState, UInt32 UpdateState)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported the state changed from %1 to %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	154	0	Event_154(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to start MSA service.  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	155	0	Event_155(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to start TPM task.  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	156	0	Event_156()			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported that MSA TPM is not configured for hardware TPM attestation even though the profile indicates it is required.  AutoPilot cannot proceed.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	157	0	Event_157(UInt64 UInt1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported that TPM attestation lasted %1 microseconds.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	160	0	Event_160()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotRetrieveSettings beginning acquisition.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	161	0	Event_161()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager retrieve settings succeeded.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	162	0	Event_162()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager determined download is not required and the device is not provisioned.  Clean or reset the device to change this.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	163	0	Event_163()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager determined download is not required and the device is already provisioned.  Clean or reset the device to change this.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	164	0	Event_164()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager determined Internet is available to attempt policy download.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	165	0	Event_165()			task_0	Warning	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager determined Internet is not available; policy download will queue when available.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	166	0	Event_166()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported Internet is now available.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	167	0	Event_167()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported Internet is still not available.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	168	0	Event_168()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported MSA TPM device identity was updated.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	169	0	Event_169()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager set TPM identity confirmed.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	170	0	Event_170()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager set AutoPilot profile as available.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	171	0	Event_171(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to set TPM identity confirmed.  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	172	0	Event_172(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to set AutoPilot profile as available.  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	173	0	Event_173(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to register for network availability.  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	174	0	Event_174(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to register for device identity availability.  HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	175	0	Event_175(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to register for device identity task update.  HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	176	0	Event_176(UInt32 Uint1, UInt32 Uint2)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	MSA TPM keystate has been updated.  New server state = %1, new client state = %2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	177	0	Event_177(UInt32 Uint1, UInt32 Uint2)			task_0	Warning	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	TPM attestation retry is being attempted.  Current retry attempt %1 of %2 maximum
+Microsoft-Windows-Provisioning-Diagnostics-Provider	178	0	Event_178(Int32 Int1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager began device enrollment with internal state %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	179	0	Event_179(UInt32 State)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager began device enrollment phase %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	180	0	Event_180(UInt32 State, HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed during device enrollment phase %1.  HRESULT = %2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	181	0	Event_181(UInt32 State, HexInt32 HRESULT)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager completed device enrollment phase %1.  HRESULT = %2
+Microsoft-Windows-Provisioning-Diagnostics-Provider	182	0	Event_182(UInt32 UInt1)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported that the retry timer event was set to %1 milliseconds.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	183	0	Event_183()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager reported that the retry timer event occurred
+Microsoft-Windows-Provisioning-Diagnostics-Provider	184	0	Event_184(HexInt32 HRESULT)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager failed to register for MSA keystate update availability.  HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	300	0	Event_300(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager device enrollment reported an initialization failure.  HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	301	0	Event_301(UInt32 State, HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager device enrollment reported a blocking failure.  Overall error %2, last reported stage %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	302	0	Event_302(UInt32 State, HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager device enrollment failed during stage %1 with error %2.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	303	0	Event_303(UInt32 State)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilotManager device enrollment succeeded.  Last valid stage: %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	310	0	Event_310(UnicodeString Message1, UnicodeString Message2, UnicodeString Message3)			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	AutoPilot configuration file path: %1 \r\nExpanded path:%2 \r\nFile path source:%3
+Microsoft-Windows-Provisioning-Diagnostics-Provider	311	0	Event_311(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	Failed to load AutoPilot configuration file, HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	312	0	Event_312(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	Failed to parse AutoPilot configuration file, HRESULT = %1.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	313	0	Event_313(HexInt32 HRESULT, UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot	Invalid ZtdCorrelationId found in Autopilot configuration file, HRESULT = %1. ZtdCorrelationId: '%2'.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1000	0	Event_1000()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service starting.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1001	0	Event_1001()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service started.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1002	0	Event_1002(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service failed to start.  HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1003	0	Event_1003()			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service failed to register.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1004	0	Event_1004()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service shutdown.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1005	0	Event_1005(HexInt32 HRESULT, AnsiString File, Int32 Line, UnicodeString Message)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service WIL error was reported.\r\nHRESULT: %1\r\nFile: %2, line %3\r\nMessage: %4
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1006	0	Event_1006(UnicodeString Message1)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service call %1 is deprecated!
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1007	0	Event_1007()			task_0	Informational	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service cleared the local Autopilot cached state.
+Microsoft-Windows-Provisioning-Diagnostics-Provider	1008	0	Event_1008(HexInt32 HRESULT)			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Management service failed to clear the local Autopilot cached state.  HRESULT = %1
+Microsoft-Windows-Provisioning-Diagnostics-Provider	2000	0	Event_2000()			task_0	Error	Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService	Device rename has been blocked through MDM because machine is domain joined

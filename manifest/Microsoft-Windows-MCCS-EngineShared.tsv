@@ -1,6 +1,6 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
-Microsoft-Windows-MCCS-EngineShared	1	0	task_0(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Error	task_0	Error		
-Microsoft-Windows-MCCS-EngineShared	2	0	task_02(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Warning	task_0	Warning		
-Microsoft-Windows-MCCS-EngineShared	3001	0	task_03001(UnicodeString Prop_UnicodeString)		Debug	task_0	Informational		
+Microsoft-Windows-MCCS-EngineShared	1	0	Event_1(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Error	task_0	Error		Error: HRESULT: %1 Location: %2 Line Number: %3
+Microsoft-Windows-MCCS-EngineShared	2	0	Event_2(Int32 P1_HResult, AnsiString P2_String, UInt32 P3_UInt32)		Warning	task_0	Warning		Error Propagated: HRESULT: %1 Location: %2 Line Number: %3
+Microsoft-Windows-MCCS-EngineShared	3001	0	Event_3001(UnicodeString Prop_UnicodeString)		Debug	task_0	Informational		Mms Mime: Invalid phone number: %1
 Microsoft-Windows-MCCS-EngineShared	3002	0	SPERF_TAG_SHARED_MIME_LOOKUP_NAMEStart()	Start	Performance	SPERF_TAG_SHARED_MIME_LOOKUP_NAME	Informational		
 Microsoft-Windows-MCCS-EngineShared	3003	0	SPERF_TAG_SHARED_MIME_LOOKUP_NAMEStop()	Stop	Performance	SPERF_TAG_SHARED_MIME_LOOKUP_NAME	Informational		

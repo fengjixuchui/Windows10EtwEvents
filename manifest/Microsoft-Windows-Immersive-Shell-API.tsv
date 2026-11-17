@@ -1,60 +1,60 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
-Microsoft-Windows-Immersive-Shell-API	2000	0	CoreApplicationActivationStart()	Start		CoreApplicationActivation	Informational		
-Microsoft-Windows-Immersive-Shell-API	2001	0	CoreApplicationActivationStop()	Stop		CoreApplicationActivation	Informational		
-Microsoft-Windows-Immersive-Shell-API	2002	0	CoreApplicationSuspensionStart()	Start		CoreApplicationSuspension	Informational		
-Microsoft-Windows-Immersive-Shell-API	2003	0	CoreApplicationSuspensionStop()	Stop		CoreApplicationSuspension	Informational		
-Microsoft-Windows-Immersive-Shell-API	2004	0	CoreApplicationExitStart()	Start		CoreApplicationExit	Informational		
-Microsoft-Windows-Immersive-Shell-API	2005	0	CoreApplicationExitStop()	Stop		CoreApplicationExit	Informational		
-Microsoft-Windows-Immersive-Shell-API	2006	0	CoreApplicationRegistrationStart()	Start		CoreApplicationRegistration	Informational		
-Microsoft-Windows-Immersive-Shell-API	2007	0	CoreApplicationRegistrationStop()	Stop		CoreApplicationRegistration	Informational		
-Microsoft-Windows-Immersive-Shell-API	2008	0	CoreApplicationInitializationStart()	Start		CoreApplicationInitialization	Informational		
-Microsoft-Windows-Immersive-Shell-API	2009	0	CoreApplicationInitializationStop()	Stop		CoreApplicationInitialization	Informational		
-Microsoft-Windows-Immersive-Shell-API	2010	0	CoreApplicationViewProviderLoadStart()	Start		CoreApplicationViewProviderLoad	Informational		
-Microsoft-Windows-Immersive-Shell-API	2011	0	CoreApplicationViewProviderLoadStop()	Stop		CoreApplicationViewProviderLoad	Informational		
-Microsoft-Windows-Immersive-Shell-API	2012	0	CoreApplicationViewProviderInitializationStart()	Start		CoreApplicationViewProviderInitialization	Informational		
-Microsoft-Windows-Immersive-Shell-API	2013	0	CoreApplicationViewProviderInitializationStop()	Stop		CoreApplicationViewProviderInitialization	Informational		
-Microsoft-Windows-Immersive-Shell-API	2014	0	CoreApplicationActivationHandlersStart()	Start		CoreApplicationActivationHandlers	Informational		
-Microsoft-Windows-Immersive-Shell-API	2015	0	CoreApplicationActivationHandlersStop()	Stop		CoreApplicationActivationHandlers	Informational		
-Microsoft-Windows-Immersive-Shell-API	2016	0	CoreApplicationSuspendHandlersStart()	Start		CoreApplicationSuspendHandlers	Informational		
-Microsoft-Windows-Immersive-Shell-API	2017	0	CoreApplicationSuspendHandlersStop()	Stop		CoreApplicationSuspendHandlers	Informational		
-Microsoft-Windows-Immersive-Shell-API	2018	0	CoreApplicationResumeHandlersStart()	Start		CoreApplicationResumeHandlers	Informational		
-Microsoft-Windows-Immersive-Shell-API	2019	0	CoreApplicationResumeHandlersStop()	Stop		CoreApplicationResumeHandlers	Informational		
-Microsoft-Windows-Immersive-Shell-API	2020	0	CoreApplicationCreateNewViewStart()	Start		CoreApplicationCreateNewView	Informational		
-Microsoft-Windows-Immersive-Shell-API	2021	0	CoreApplicationCreateNewViewStop()	Stop		CoreApplicationCreateNewView	Informational		
-Microsoft-Windows-Immersive-Shell-API	2022	0	CoreApplicationEnteredBackgroundStart()	Start		CoreApplicationEnteredBackground	Informational		
-Microsoft-Windows-Immersive-Shell-API	2023	0	CoreApplicationEnteredBackgroundStop()	Stop		CoreApplicationEnteredBackground	Informational		
-Microsoft-Windows-Immersive-Shell-API	2024	0	CoreApplicationEnteredBackgroundDispatchStart()	Start		CoreApplicationEnteredBackgroundDispatch	Informational		
-Microsoft-Windows-Immersive-Shell-API	2025	0	CoreApplicationEnteredBackgroundDispatchStop()	Stop		CoreApplicationEnteredBackgroundDispatch	Informational		
-Microsoft-Windows-Immersive-Shell-API	2026	0	CoreApplicationLeavingBackgroundStart()	Start		CoreApplicationLeavingBackground	Informational		
-Microsoft-Windows-Immersive-Shell-API	2027	0	CoreApplicationLeavingBackgroundStop()	Stop		CoreApplicationLeavingBackground	Informational		
-Microsoft-Windows-Immersive-Shell-API	2028	0	CoreApplicationLeavingBackgroundDispatchStart()	Start		CoreApplicationLeavingBackgroundDispatch	Informational		
-Microsoft-Windows-Immersive-Shell-API	2029	0	CoreApplicationLeavingBackgroundDispatchStop()	Stop		CoreApplicationLeavingBackgroundDispatch	Informational		
-Microsoft-Windows-Immersive-Shell-API	2041	0	CoreApplicationPsmDoStateChange(UInt32 QuiesceBool)			CoreApplicationPsmDoStateChange	Informational		
-Microsoft-Windows-Immersive-Shell-API	2042	0	CoreApplicationQuiescePsmBlockUnblockASTA(UInt32 BlockUnblockBool, UInt32 ThreadId)			CoreApplicationQuiescePsmBlockUnblockASTA	Informational		
-Microsoft-Windows-Immersive-Shell-API	2044	0	CoreApplicationQuiesceWaitForAppResume(UInt32 ThreadId)			CoreApplicationQuiesceWaitForAppResume	Informational		
-Microsoft-Windows-Immersive-Shell-API	2045	0	CoreApplicationViewInitializationProcessAndThread(UInt32 IsMainView, UInt32 Pid, UInt32 ThreadId)			CoreApplicationViewInitializationProcessAndThread	Informational		
-Microsoft-Windows-Immersive-Shell-API	2046	0	CoreApplicationSuspendingDeferralStart()	Start	Deferral	CoreApplicationSuspendingDeferral	Informational		
-Microsoft-Windows-Immersive-Shell-API	2047	0	CoreApplicationSuspendingDeferralStop()	Stop	Deferral	CoreApplicationSuspendingDeferral	Informational		
-Microsoft-Windows-Immersive-Shell-API	2048	0	CoreApplicationEnteredBackground()			CoreApplicationEnteredBackground	Informational		
-Microsoft-Windows-Immersive-Shell-API	2049	0	CoreApplicationLeavingBackground()			CoreApplicationLeavingBackground	Informational		
-Microsoft-Windows-Immersive-Shell-API	2050	0	CoreApplicationInvalidEventInProgress()			CoreApplicationInvalidEventInProgress	Informational		
-Microsoft-Windows-Immersive-Shell-API	2101	0	ImmersiveSettingsPane_ShowStart()	Start		ImmersiveSettingsPane_Show	Informational		
-Microsoft-Windows-Immersive-Shell-API	2102	0	ImmersiveSettingsPane_ShowStop(UInt32 Result)	Stop		ImmersiveSettingsPane_Show	Informational		
-Microsoft-Windows-Immersive-Shell-API	2104	0	ImmersiveSettingsPane_DispatchCommandStart()	Start		ImmersiveSettingsPane_DispatchCommand	Informational		
-Microsoft-Windows-Immersive-Shell-API	2105	0	ImmersiveSettingsPane_DispatchCommand()			ImmersiveSettingsPane_DispatchCommand	Informational		
-Microsoft-Windows-Immersive-Shell-API	2106	0	ImmersiveSettingsPane_DispatchCommandStop(UInt32 Result)	Stop		ImmersiveSettingsPane_DispatchCommand	Informational		
-Microsoft-Windows-Immersive-Shell-API	2108	0	ImmersiveSettingsPane_QueryCommandsStart()	Start		ImmersiveSettingsPane_QueryCommands	Informational		
-Microsoft-Windows-Immersive-Shell-API	2109	0	ImmersiveSettingsPane_QueryCommandsStop()	Stop		ImmersiveSettingsPane_QueryCommands	Informational		
-Microsoft-Windows-Immersive-Shell-API	2111	0	ImmersiveSettingsPane_RequestCommandsStart()	Start		ImmersiveSettingsPane_RequestCommands	Informational		
-Microsoft-Windows-Immersive-Shell-API	2112	0	ImmersiveSettingsPane_RequestCommandsStop()	Stop		ImmersiveSettingsPane_RequestCommands	Informational		
-Microsoft-Windows-Immersive-Shell-API	2114	0	ImmersiveSettingsPane_CommandsRequestedEventHandler()			ImmersiveSettingsPane_CommandsRequestedEventHandler	Informational		
-Microsoft-Windows-Immersive-Shell-API	2115	0	ImmersiveSettingsPane_CommandsRequestedEventHandler2115()			ImmersiveSettingsPane_CommandsRequestedEventHandler	Informational		
-Microsoft-Windows-Immersive-Shell-API	6000	0	SearchPane_API_GetForCurrentViewStart()	Start		SearchPane_API_GetForCurrentView	Informational		
-Microsoft-Windows-Immersive-Shell-API	6001	0	SearchPane_API_GetForCurrentViewStop()	Stop		SearchPane_API_GetForCurrentView	Informational		
-Microsoft-Windows-Immersive-Shell-API	6002	0	SearchPane_API_TypeAhead_AsyncImageDownloadStart()	Start		SearchPane_API_TypeAhead_AsyncImageDownload	Informational		
-Microsoft-Windows-Immersive-Shell-API	6003	0	SearchPane_API_TypeAhead_AsyncImageDownloadStop()	Stop		SearchPane_API_TypeAhead_AsyncImageDownload	Informational		
-Microsoft-Windows-Immersive-Shell-API	6004	0	SearchPane_API_TypeAhead_DeferralCompleteStart()	Start		SearchPane_API_TypeAhead_DeferralComplete	Informational		
-Microsoft-Windows-Immersive-Shell-API	6005	0	SearchPane_API_TypeAhead_DeferralCompleteStop()	Stop		SearchPane_API_TypeAhead_DeferralComplete	Informational		
-Microsoft-Windows-Immersive-Shell-API	6200	0	DataTransferManager_API_AppReturnDataStart()	Start		DataTransferManager_API_AppReturnData	Informational		
-Microsoft-Windows-Immersive-Shell-API	6201	0	DataTransferManager_API_AppReturnDataStop(UnicodeString AppID)	Stop		DataTransferManager_API_AppReturnData	Informational		
-Microsoft-Windows-Immersive-Shell-API	6203	0	PerfTrack_ShareCharm_TimeToAppStop(UInt32 HWND, UnicodeString AppID)	Stop		PerfTrack_ShareCharm_TimeToApp	Informational		
+Microsoft-Windows-Immersive-Shell-API	2000	0	CoreApplicationActivationStart()	Start		CoreApplicationActivation	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2001	0	CoreApplicationActivationStop()	Stop		CoreApplicationActivation	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2002	0	CoreApplicationSuspensionStart()	Start		CoreApplicationSuspension	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2003	0	CoreApplicationSuspensionStop()	Stop		CoreApplicationSuspension	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2004	0	CoreApplicationExitStart()	Start		CoreApplicationExit	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2005	0	CoreApplicationExitStop()	Stop		CoreApplicationExit	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2006	0	CoreApplicationRegistrationStart()	Start		CoreApplicationRegistration	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2007	0	CoreApplicationRegistrationStop()	Stop		CoreApplicationRegistration	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2008	0	CoreApplicationInitializationStart()	Start		CoreApplicationInitialization	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2009	0	CoreApplicationInitializationStop()	Stop		CoreApplicationInitialization	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2010	0	CoreApplicationViewProviderLoadStart()	Start		CoreApplicationViewProviderLoad	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2011	0	CoreApplicationViewProviderLoadStop()	Stop		CoreApplicationViewProviderLoad	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2012	0	CoreApplicationViewProviderInitializationStart()	Start		CoreApplicationViewProviderInitialization	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2013	0	CoreApplicationViewProviderInitializationStop()	Stop		CoreApplicationViewProviderInitialization	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2014	0	CoreApplicationActivationHandlersStart()	Start		CoreApplicationActivationHandlers	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2015	0	CoreApplicationActivationHandlersStop()	Stop		CoreApplicationActivationHandlers	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2016	0	CoreApplicationSuspendHandlersStart()	Start		CoreApplicationSuspendHandlers	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2017	0	CoreApplicationSuspendHandlersStop()	Stop		CoreApplicationSuspendHandlers	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2018	0	CoreApplicationResumeHandlersStart()	Start		CoreApplicationResumeHandlers	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2019	0	CoreApplicationResumeHandlersStop()	Stop		CoreApplicationResumeHandlers	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2020	0	CoreApplicationCreateNewViewStart()	Start		CoreApplicationCreateNewView	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2021	0	CoreApplicationCreateNewViewStop()	Stop		CoreApplicationCreateNewView	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2022	0	CoreApplicationEnteredBackgroundStart()	Start		CoreApplicationEnteredBackground	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2023	0	CoreApplicationEnteredBackgroundStop()	Stop		CoreApplicationEnteredBackground	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2024	0	CoreApplicationEnteredBackgroundDispatchStart()	Start		CoreApplicationEnteredBackgroundDispatch	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2025	0	CoreApplicationEnteredBackgroundDispatchStop()	Stop		CoreApplicationEnteredBackgroundDispatch	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2026	0	CoreApplicationLeavingBackgroundStart()	Start		CoreApplicationLeavingBackground	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2027	0	CoreApplicationLeavingBackgroundStop()	Stop		CoreApplicationLeavingBackground	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2028	0	CoreApplicationLeavingBackgroundDispatchStart()	Start		CoreApplicationLeavingBackgroundDispatch	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2029	0	CoreApplicationLeavingBackgroundDispatchStop()	Stop		CoreApplicationLeavingBackgroundDispatch	Informational	Microsoft-Windows-CoreApplication/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2041	0	CoreApplicationPsmDoStateChange(UInt32 QuiesceBool)			CoreApplicationPsmDoStateChange	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - Quiesce - PSM called PsmDoStateChange
+Microsoft-Windows-Immersive-Shell-API	2042	0	CoreApplicationQuiescePsmBlockUnblockASTA(UInt32 BlockUnblockBool, UInt32 ThreadId)			CoreApplicationQuiescePsmBlockUnblockASTA	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - Suspend - Calling PsmBlockUnblock (%1) for ASTA %2
+Microsoft-Windows-Immersive-Shell-API	2044	0	CoreApplicationQuiesceWaitForAppResume(UInt32 ThreadId)			CoreApplicationQuiesceWaitForAppResume	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - Quiesce - called PsmWaitForAppResume
+Microsoft-Windows-Immersive-Shell-API	2045	0	CoreApplicationViewInitializationProcessAndThread(UInt32 IsMainView, UInt32 Pid, UInt32 ThreadId)			CoreApplicationViewInitializationProcessAndThread	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - ViewInitialize - IsMain %1 PID %2 TID %3
+Microsoft-Windows-Immersive-Shell-API	2046	0	CoreApplicationSuspendingDeferralStart()	Start	Deferral	CoreApplicationSuspendingDeferral	Informational	Microsoft-Windows-CoreApplication/Tracing	
+Microsoft-Windows-Immersive-Shell-API	2047	0	CoreApplicationSuspendingDeferralStop()	Stop	Deferral	CoreApplicationSuspendingDeferral	Informational	Microsoft-Windows-CoreApplication/Tracing	
+Microsoft-Windows-Immersive-Shell-API	2048	0	CoreApplicationEnteredBackground()			CoreApplicationEnteredBackground	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - EnteredBackground
+Microsoft-Windows-Immersive-Shell-API	2049	0	CoreApplicationLeavingBackground()			CoreApplicationLeavingBackground	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - LeavingBackground
+Microsoft-Windows-Immersive-Shell-API	2050	0	CoreApplicationInvalidEventInProgress()			CoreApplicationInvalidEventInProgress	Informational	Microsoft-Windows-CoreApplication/Tracing	CoreApplication - Invalid visibility changed event detected.  Visibility changed event is already in progress.
+Microsoft-Windows-Immersive-Shell-API	2101	0	ImmersiveSettingsPane_ShowStart()	Start		ImmersiveSettingsPane_Show	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2102	0	ImmersiveSettingsPane_ShowStop(UInt32 Result)	Stop		ImmersiveSettingsPane_Show	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2104	0	ImmersiveSettingsPane_DispatchCommandStart()	Start		ImmersiveSettingsPane_DispatchCommand	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2105	0	ImmersiveSettingsPane_DispatchCommand()			ImmersiveSettingsPane_DispatchCommand	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2106	0	ImmersiveSettingsPane_DispatchCommandStop(UInt32 Result)	Stop		ImmersiveSettingsPane_DispatchCommand	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2108	0	ImmersiveSettingsPane_QueryCommandsStart()	Start		ImmersiveSettingsPane_QueryCommands	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2109	0	ImmersiveSettingsPane_QueryCommandsStop()	Stop		ImmersiveSettingsPane_QueryCommands	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2111	0	ImmersiveSettingsPane_RequestCommandsStart()	Start		ImmersiveSettingsPane_RequestCommands	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2112	0	ImmersiveSettingsPane_RequestCommandsStop()	Stop		ImmersiveSettingsPane_RequestCommands	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2114	0	ImmersiveSettingsPane_CommandsRequestedEventHandler()			ImmersiveSettingsPane_CommandsRequestedEventHandler	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	2115	0	ImmersiveSettingsPane_CommandsRequestedEventHandler2115()			ImmersiveSettingsPane_CommandsRequestedEventHandler	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6000	0	SearchPane_API_GetForCurrentViewStart()	Start		SearchPane_API_GetForCurrentView	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6001	0	SearchPane_API_GetForCurrentViewStop()	Stop		SearchPane_API_GetForCurrentView	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6002	0	SearchPane_API_TypeAhead_AsyncImageDownloadStart()	Start		SearchPane_API_TypeAhead_AsyncImageDownload	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6003	0	SearchPane_API_TypeAhead_AsyncImageDownloadStop()	Stop		SearchPane_API_TypeAhead_AsyncImageDownload	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6004	0	SearchPane_API_TypeAhead_DeferralCompleteStart()	Start		SearchPane_API_TypeAhead_DeferralComplete	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6005	0	SearchPane_API_TypeAhead_DeferralCompleteStop()	Stop		SearchPane_API_TypeAhead_DeferralComplete	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6200	0	DataTransferManager_API_AppReturnDataStart()	Start		DataTransferManager_API_AppReturnData	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6201	0	DataTransferManager_API_AppReturnDataStop(UnicodeString AppID)	Stop		DataTransferManager_API_AppReturnData	Informational	Microsoft-Windows-TWinAPI/Diagnostic	
+Microsoft-Windows-Immersive-Shell-API	6203	0	PerfTrack_ShareCharm_TimeToAppStop(UInt32 HWND, UnicodeString AppID)	Stop		PerfTrack_ShareCharm_TimeToApp	Informational	Microsoft-Windows-TWinAPI/Diagnostic	

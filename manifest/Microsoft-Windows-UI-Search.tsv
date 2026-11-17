@@ -1,25 +1,25 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
-Microsoft-Windows-UI-Search	101	0	XamlViewStartupStart(UInt32 XAMLView)	Start		XamlViewStartup	Informational		
-Microsoft-Windows-UI-Search	102	0	XamlViewStartupStop(UInt32 XAMLView, UInt32 Result)	Stop		XamlViewStartup	Informational		
-Microsoft-Windows-UI-Search	103	0	Perftrack_SearchPaneViewSetupStart()	Start		Perftrack_SearchPaneViewSetup	Informational		
-Microsoft-Windows-UI-Search	104	0	Perftrack_SearchPaneViewSetupStop()	Stop		Perftrack_SearchPaneViewSetup	Informational		
-Microsoft-Windows-UI-Search	201	0	ASTAThreadStart(UInt32 ThreadID, UInt32 XAMLView)	Start		ASTAThread	Informational		
-Microsoft-Windows-UI-Search	202	0	ASTAThreadStop(UInt32 ThreadID, UInt32 XAMLView)	Stop		ASTAThread	Informational		
-Microsoft-Windows-UI-Search	301	0	ResourceManagerStart()	Start		ResourceManager	Informational		
-Microsoft-Windows-UI-Search	302	0	ResourceManagerStop(UInt32 Result)	Stop		ResourceManager	Informational		
-Microsoft-Windows-UI-Search	401	0	XAMLContentStart()	Start		XAMLContent	Informational		
-Microsoft-Windows-UI-Search	402	0	XAMLContentStop(UInt32 Result)	Stop		XAMLContent	Informational		
-Microsoft-Windows-UI-Search	501	0	ViewServiceInitStart(UInt32 ServiceIndex)	Start		ViewServiceInit	Informational		
-Microsoft-Windows-UI-Search	502	0	ViewServiceInitStop(UInt32 ServiceIndex, UInt32 Result)	Stop		ViewServiceInit	Informational		
-Microsoft-Windows-UI-Search	503	0	ViewServiceSubscribeStart(UInt32 ServiceIndex)	Start		ViewServiceSubscribe	Informational		
-Microsoft-Windows-UI-Search	504	0	ViewServiceSubscribeStop(UInt32 ServiceIndex, UInt32 Result)	Stop		ViewServiceSubscribe	Informational		
-Microsoft-Windows-UI-Search	601	0	XamlViewShutdownStart(UInt32 XAMLView)	Start		XamlViewShutdown	Informational		
-Microsoft-Windows-UI-Search	602	0	XamlViewShutdownStop(UInt32 XAMLView, UInt32 Result)	Stop		XamlViewShutdown	Informational		
-Microsoft-Windows-UI-Search	709	0	XamlHostCreateWindowStart()	Start		XamlHostCreateWindow	Informational		
-Microsoft-Windows-UI-Search	710	0	XamlHostCreateWindowStop(UInt32 Result)	Stop		XamlHostCreateWindow	Informational		
-Microsoft-Windows-UI-Search	711	0	SearchPane_QueryChanged(UnicodeString QueryString)			SearchPane_QueryChanged	Informational		
-Microsoft-Windows-UI-Search	910	0	TemplateManager_XAMLCallbackException(UInt32 Result, UnicodeString Message)			TemplateManager_XAMLCallbackException	Informational		
-Microsoft-Windows-UI-Search	1001	0	XamlHostWindow_VisibilityChanged(UInt32 Visibility, UInt32 XAMLView)			XamlHostWindow_VisibilityChanged	Informational		
-Microsoft-Windows-UI-Search	1836	0	GetSearchLaunchModeForWindow_Result(UInt32 HRESULT, UInt32 LaunchMode)			GetSearchLaunchModeForWindow_Result	Informational		
-Microsoft-Windows-UI-Search	3001	0	PerfTrack_SearchPaneOpenStart()	Start		PerfTrack_SearchPaneOpen	Informational		
-Microsoft-Windows-UI-Search	3002	0	PerfTrack_SearchPaneOpenStop()	Stop		PerfTrack_SearchPaneOpen	Informational		
+Microsoft-Windows-UI-Search	101	0	XamlViewStartupStart(UInt32 XAMLView)	Start		XamlViewStartup	Informational	Microsoft-Windows-SearchUI/Diagnostic	The XAML view %1 is starting up.
+Microsoft-Windows-UI-Search	102	0	XamlViewStartupStop(UInt32 XAMLView, UInt32 Result)	Stop		XamlViewStartup	Informational	Microsoft-Windows-SearchUI/Diagnostic	The XAML view %1 has completed starting up with result %2.
+Microsoft-Windows-UI-Search	103	0	Perftrack_SearchPaneViewSetupStart()	Start		Perftrack_SearchPaneViewSetup	Informational	Microsoft-Windows-SearchUI/Diagnostic	
+Microsoft-Windows-UI-Search	104	0	Perftrack_SearchPaneViewSetupStop()	Stop		Perftrack_SearchPaneViewSetup	Informational	Microsoft-Windows-SearchUI/Diagnostic	
+Microsoft-Windows-UI-Search	201	0	ASTAThreadStart(UInt32 ThreadID, UInt32 XAMLView)	Start		ASTAThread	Informational	Microsoft-Windows-SearchUI/Diagnostic	A search thread has started %1.
+Microsoft-Windows-UI-Search	202	0	ASTAThreadStop(UInt32 ThreadID, UInt32 XAMLView)	Stop		ASTAThread	Informational	Microsoft-Windows-SearchUI/Diagnostic	A search thread has stopped %1.
+Microsoft-Windows-UI-Search	301	0	ResourceManagerStart()	Start		ResourceManager	Informational	Microsoft-Windows-SearchUI/Diagnostic	Resource manager initialization has started.
+Microsoft-Windows-UI-Search	302	0	ResourceManagerStop(UInt32 Result)	Stop		ResourceManager	Informational	Microsoft-Windows-SearchUI/Diagnostic	Resource manager initialization has completed with result %1.
+Microsoft-Windows-UI-Search	401	0	XAMLContentStart()	Start		XAMLContent	Informational	Microsoft-Windows-SearchUI/Diagnostic	XAML content initialization has started.
+Microsoft-Windows-UI-Search	402	0	XAMLContentStop(UInt32 Result)	Stop		XAMLContent	Informational	Microsoft-Windows-SearchUI/Diagnostic	The XAML content initialization has completed with result %1.
+Microsoft-Windows-UI-Search	501	0	ViewServiceInitStart(UInt32 ServiceIndex)	Start		ViewServiceInit	Informational	Microsoft-Windows-SearchUI/Diagnostic	The view service with index %1 has started initialization.
+Microsoft-Windows-UI-Search	502	0	ViewServiceInitStop(UInt32 ServiceIndex, UInt32 Result)	Stop		ViewServiceInit	Informational	Microsoft-Windows-SearchUI/Diagnostic	The view service with index %1 has completed initialization with result %2.
+Microsoft-Windows-UI-Search	503	0	ViewServiceSubscribeStart(UInt32 ServiceIndex)	Start		ViewServiceSubscribe	Informational	Microsoft-Windows-SearchUI/Diagnostic	The view service with index %1 has started subscription.
+Microsoft-Windows-UI-Search	504	0	ViewServiceSubscribeStop(UInt32 ServiceIndex, UInt32 Result)	Stop		ViewServiceSubscribe	Informational	Microsoft-Windows-SearchUI/Diagnostic	The view service with index %1 has completed with subcription result %2.
+Microsoft-Windows-UI-Search	601	0	XamlViewShutdownStart(UInt32 XAMLView)	Start		XamlViewShutdown	Informational	Microsoft-Windows-SearchUI/Diagnostic	The XAML view %1 is shutting down.
+Microsoft-Windows-UI-Search	602	0	XamlViewShutdownStop(UInt32 XAMLView, UInt32 Result)	Stop		XamlViewShutdown	Informational	Microsoft-Windows-SearchUI/Diagnostic	The XAML view %1 has completed shutdown up with result %2.
+Microsoft-Windows-UI-Search	709	0	XamlHostCreateWindowStart()	Start		XamlHostCreateWindow	Informational	Microsoft-Windows-SearchUI/Diagnostic	The host window is being created.
+Microsoft-Windows-UI-Search	710	0	XamlHostCreateWindowStop(UInt32 Result)	Stop		XamlHostCreateWindow	Informational	Microsoft-Windows-SearchUI/Diagnostic	The host window was created with result %1.
+Microsoft-Windows-UI-Search	711	0	SearchPane_QueryChanged(UnicodeString QueryString)			SearchPane_QueryChanged	Informational	Microsoft-Windows-SearchUI/Diagnostic	Search query has changed: "%1"
+Microsoft-Windows-UI-Search	910	0	TemplateManager_XAMLCallbackException(UInt32 Result, UnicodeString Message)			TemplateManager_XAMLCallbackException	Informational	Microsoft-Windows-SearchUI/Diagnostic	XAML callback handled exception. Result: %1. Message: %2.
+Microsoft-Windows-UI-Search	1001	0	XamlHostWindow_VisibilityChanged(UInt32 Visibility, UInt32 XAMLView)			XamlHostWindow_VisibilityChanged	Informational	Microsoft-Windows-SearchUI/Diagnostic	The XAML host window visibility is now %1.
+Microsoft-Windows-UI-Search	1836	0	GetSearchLaunchModeForWindow_Result(UInt32 HRESULT, UInt32 LaunchMode)			GetSearchLaunchModeForWindow_Result	Informational	Microsoft-Windows-SearchUI/Diagnostic	Launch mode for browser is %2 (Result %1).
+Microsoft-Windows-UI-Search	3001	0	PerfTrack_SearchPaneOpenStart()	Start		PerfTrack_SearchPaneOpen	Informational	Microsoft-Windows-SearchUI/Diagnostic	
+Microsoft-Windows-UI-Search	3002	0	PerfTrack_SearchPaneOpenStop()	Stop		PerfTrack_SearchPaneOpen	Informational	Microsoft-Windows-SearchUI/Diagnostic	

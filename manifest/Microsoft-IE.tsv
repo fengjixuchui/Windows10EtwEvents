@@ -662,14 +662,14 @@ Microsoft-IE	784	0	Mshtml_Media_Capture_Sample_Delivered(UInt64 SampleRequstedCo
 Microsoft-IE	785	0	Mshtml_Media_Capture_Sample_Received(UInt64 SampleRequstedCount, UInt64 SampleDeliveredCount, UInt64 SampleReceivedCount, UInt64 SampleDroppedCount, UInt32 TrackKind, Pointer ThisPtr)		mshtml	Mshtml_Media_Capture_Sample_Received	Always		
 Microsoft-IE	786	0	Mshtml_Media_Capture_Sample_Dropped(UInt64 SampleRequstedCount, UInt64 SampleDeliveredCount, UInt64 SampleReceivedCount, UInt64 SampleDroppedCount, UInt32 TrackKind, Pointer ThisPtr)		mshtml	Mshtml_Media_Capture_Sample_Dropped	Always		
 Microsoft-IE	787	0	Mshtml_CStorage787(UnicodeString Domain)		mshtml	Mshtml_CStorage	Always		
-Microsoft-IE	800	0	WebPlatStorageServerStart(UnicodeString MethodName)	Start		WebPlatStorageServer	Informational		
-Microsoft-IE	801	0	WebPlatStorageServerStop(UnicodeString MethodName, UInt32 HR)	Stop		WebPlatStorageServer	Informational		
-Microsoft-IE	802	0	WebPlatStorageServerStart802(UnicodeString MethodName)	Start		WebPlatStorageServer	Informational		
-Microsoft-IE	803	0	WebPlatStorageServerStop803(UnicodeString MethodName, UInt32 HR)	Stop		WebPlatStorageServer	Informational		
-Microsoft-IE	804	0	WebPlatStorageServer(UnicodeString Reason)			WebPlatStorageServer	Informational		
-Microsoft-IE	805	0	WebPlatStorageServer805(UnicodeString HandleType)			WebPlatStorageServer	Informational		
-Microsoft-IE	806	0	WebPlatStorageServer806(UInt32 HR)			WebPlatStorageServer	Informational		
-Microsoft-IE	807	0	WebPlatStorageServer807(UnicodeString ProcessName, UInt32 PID, UnicodeString FileName)			WebPlatStorageServer	Informational		
+Microsoft-IE	800	0	WebPlatStorageServerStart(UnicodeString MethodName)	Start		WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	801	0	WebPlatStorageServerStop(UnicodeString MethodName, UInt32 HR)	Stop		WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	802	0	WebPlatStorageServerStart802(UnicodeString MethodName)	Start		WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	803	0	WebPlatStorageServerStop803(UnicodeString MethodName, UInt32 HR)	Stop		WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	804	0	WebPlatStorageServer(UnicodeString Reason)			WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	805	0	WebPlatStorageServer805(UnicodeString HandleType)			WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	806	0	WebPlatStorageServer806(UInt32 HR)			WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	807	0	WebPlatStorageServer807(UnicodeString ProcessName, UInt32 PID, UnicodeString FileName)			WebPlatStorageServer	Informational	Microsoft-Windows-WebPlatStorage-Server	
 Microsoft-IE	808	0	Mshtml_AlignedTimer_ProcessingStart(UInt64 CurrentRound, UInt64 CallsToProcess, UInt64 CurrentTimeMs)	Start	paintbeat	Mshtml_AlignedTimer_Processing	Always		
 Microsoft-IE	809	0	Mshtml_AlignedTimer_ProcessingStop(UInt64 CurrentRound, UInt64 CallsToProcess, UInt64 CurrentTimeMs)	Stop	paintbeat	Mshtml_AlignedTimer_Processing	Always		
 Microsoft-IE	810	2	Mshtml_AlignedTimer_Fire810_V2(Pointer Object, UInt32 TimerId, Int32 DeltaMs, Int32 PeriodMs, UInt64 CurrentTimeMs, HexInt32 Flags, Pointer Callback, Boolean Visibility, UInt32 TimerRound)		paintbeat	Mshtml_AlignedTimer_Fire	Always		
@@ -679,11 +679,11 @@ Microsoft-IE	813	0	Mshtml_CBase_AddInternalRef(Pointer JsVarInstance, Pointer Th
 Microsoft-IE	814	0	Mshtml_CBase_ReleaseInternalRef(Pointer JsVarInstance, Pointer ThisPointer, UInt32 SSN, UInt32 RefAfterChange)		internalrefcount	Mshtml_CBase_ReleaseInternalRef	Always		
 Microsoft-IE	815	0	Mshtml_CBase_AddSubRef(Pointer JsVarInstance, Pointer ThisPointer, UInt32 SSN, UInt32 RefAfterChange)		subrefcount	Mshtml_CBase_AddSubRef	Always		
 Microsoft-IE	816	0	Mshtml_CBase_ReleaseSubRef(Pointer JsVarInstance, Pointer ThisPointer, UInt32 SSN, UInt32 RefAfterChange)		subrefcount	Mshtml_CBase_ReleaseSubRef	Always		
-Microsoft-IE	817	0	WebPlatStorageServer_Handle(UInt8 StorageCategory, UInt32 HandleType, Pointer Handle)			WebPlatStorageServer_Handle	Informational		
-Microsoft-IE	818	0	WebPlatStorageServer_Handle818(UInt8 StorageCategory, UInt32 HandleType, Pointer Handle)			WebPlatStorageServer_Handle	Informational		
-Microsoft-IE	819	0	WebPlatStorageServer_Handle819(UInt8 StorageCategory, UInt32 HandleType, Pointer Handle)			WebPlatStorageServer_Handle	Informational		
-Microsoft-IE	820	0	WebPlatStorageServer_RPC_MethodStart(UInt8 StorageCategory, UInt32 Method)	Start		WebPlatStorageServer_RPC_Method	Informational		
-Microsoft-IE	821	0	WebPlatStorageServer_RPC_MethodStop(UInt8 StorageCategory, UInt32 Method, UInt32 HR)	Stop		WebPlatStorageServer_RPC_Method	Informational		
+Microsoft-IE	817	0	WebPlatStorageServer_Handle(UInt8 StorageCategory, UInt32 HandleType, Pointer Handle)			WebPlatStorageServer_Handle	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	818	0	WebPlatStorageServer_Handle818(UInt8 StorageCategory, UInt32 HandleType, Pointer Handle)			WebPlatStorageServer_Handle	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	819	0	WebPlatStorageServer_Handle819(UInt8 StorageCategory, UInt32 HandleType, Pointer Handle)			WebPlatStorageServer_Handle	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	820	0	WebPlatStorageServer_RPC_MethodStart(UInt8 StorageCategory, UInt32 Method)	Start		WebPlatStorageServer_RPC_Method	Informational	Microsoft-Windows-WebPlatStorage-Server	
+Microsoft-IE	821	0	WebPlatStorageServer_RPC_MethodStop(UInt8 StorageCategory, UInt32 Method, UInt32 HR)	Stop		WebPlatStorageServer_RPC_Method	Informational	Microsoft-Windows-WebPlatStorage-Server	
 Microsoft-IE	822	0	Mshtml_Gwnd_TaskStart(AnsiString TaskName, Pointer ObjectPointer, UInt32 DelayTime)	Start	gwnd	Mshtml_Gwnd_Task	Always		
 Microsoft-IE	823	0	Mshtml_Gwnd_TaskStop(AnsiString TaskName, UInt32 ScriptExecutionTime, Boolean IsIgnoredInTelemetry)	Stop	gwnd	Mshtml_Gwnd_Task	Always		
 Microsoft-IE	824	0	Mshtml_Gwnd_Task_Queued(AnsiString TaskName, Pointer ObjectPointer)		gwnd	Mshtml_Gwnd_Task_Queued	Always		
